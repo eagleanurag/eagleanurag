@@ -59,6 +59,8 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 5. ❗️ Opened issue [#16](https://github.com//guilyx/AStar/issues/16) in [guilyx/AStar](https://github.com//guilyx/AStar)
 <!--END_SECTION:activity-->
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ddR31ZMLGH10k/giphy.gif" />
+
 <!--START_SECTION:waka-->
 **I'm an early 🐤** 
 
