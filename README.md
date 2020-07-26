@@ -46,7 +46,7 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 - 📈 I’m learning Go;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: An associate professor responsible for one of my academic projects (Xenomai/ROS bridge) is currently pushing for a publication.
-- 📫 How to reach me: <erwin.lejeune15@gmail.com>;
+- 📫 How to reach me: <helpmeinproject@gmail.com>;
 - 📝[Resume](https://github.com/guilyx/guilyx/files/4924811/erwinlejeune_internships.pdf)
 
 **:zap: Recent Activity:**
@@ -74,7 +74,7 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Europe/Paris
+⌚︎ Timezone: India Standard Time
 
 💬 Languages: 
 Go                       23 hrs 28 mins      ██████████████░░░░░░░░░░░   56.98% 
@@ -104,7 +104,7 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 
 
 
-![guilyx's github stats](https://github-readme-stats.vercel.app/api?username=guilyx&show_icons=true&hide_border=true)
+![guilyx's github stats](https://github-readme-stats.vercel.app/api?username=eagleanurag&show_icons=true&hide_border=true)
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/eagleanurag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
