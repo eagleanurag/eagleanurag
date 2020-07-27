@@ -6,25 +6,25 @@
 
 <br/>
 <a href="https://twitter.com/eagleanurag">
-  <img align="left" alt="guilyx | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img align="left" alt="eagleanurag | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/eagleanurag">
-  <img align="left" alt="guilyx's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="eagleanurag's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://www.facebook.com/eagleanurag">
-  <img align="left" alt="guilyx's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="eagleanurag's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.instagram.com/eagleanurag">
-  <img align="left" alt="guilyx's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="eagleanurag's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img align="left" alt="guilyx's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+  <img align="left" alt="eagleanurag's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 <a href="https://www.codewars.com/users/eagleanurag">
-  <img align="left" alt="guilyx's Codewars" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
+  <img align="left" alt="eagleanurag's Codewars" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
 </a>
 <a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992">
-  <img align="left" alt="guilyx's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
+  <img align="left" alt="eagleanurag's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
 </a> <br /> <br />
 
 I'm a **Graduate Student 👨🏽‍💼 [@UTU](https://uktech.ac.in/)** in India. <br />
@@ -47,7 +47,7 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: An associate professor responsible for one of my academic projects (Xenomai/ROS bridge) is currently pushing for a publication.
 - 📫 How to reach me: <helpmeinproject@gmail.com>;
-- 📝[Resume](https://github.com/guilyx/guilyx/files/4924811/erwinlejeune_internships.pdf)
+- 📝[Resume](https://github.com/eagleanurag/eagleanurag.github.io/raw/master/res/resume_jan20_eng.pdf)
 
 **:zap: Recent Activity:**
 
@@ -105,7 +105,7 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 
 
 
-![guilyx's github stats](https://github-readme-stats.vercel.app/api?username=eagleanurag&show_icons=true&hide_border=true)
+![eagleanurag's github stats](https://github-readme-stats.vercel.app/api?username=eagleanurag&show_icons=true&hide_border=true)
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/eagleanurag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
