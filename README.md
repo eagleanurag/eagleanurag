@@ -52,10 +52,10 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com//guilyx/AStar/pull/20) in [guilyx/AStar](https://github.com//guilyx/AStar)
-2. ❗️ Opened issue [#19](https://github.com//guilyx/AStar/issues/19) in [guilyx/AStar](https://github.com//guilyx/AStar)
-3. ❗️ Opened issue [#18](https://github.com//guilyx/AStar/issues/18) in [guilyx/AStar](https://github.com//guilyx/AStar)
-4. ❗️ Opened issue [#17](https://github.com//guilyx/AStar/issues/17) in [guilyx/AStar](https://github.com//guilyx/AStar)
+1. 💪 Opened PR [#20](https://github.com/gokhanettin/driverless-rccar/pull/12) in [gokhanettin/driverless-rccar](https://github.com/gokhanettin/driverless-rccar/)
+2. ❗️ Opened issue [#19](https://github.com/adham-elarabawy/OpenQuadruped/issues/2) in [adham/OpenQuadruped/](https://github.com/adham-elarabawy/OpenQuadruped/)
+3. ❗️ Opened issue [#18](https://github.com/gokhanettin/driverless-rccar/issues/13) in [gokhanettin/driverless-rccar](https://github.com/gokhanettin/driverless-rccar/)
+4. ❗️ Opened issue [#17](https://github.com/notu97/Neural-Network-Car/issues/1) in [notu97/Neural-Network-Car](https://github.com/notu97/Neural-Network-Car/)
 5. ❗️ Opened issue [#16](https://github.com//guilyx/AStar/issues/16) in [guilyx/AStar](https://github.com//guilyx/AStar)
 <!--END_SECTION:activity-->
 
