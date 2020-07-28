@@ -86,7 +86,6 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 
 ```
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/openquadd.gif" />
 <!--END_SECTION:waka-->
 
 **Languages and Tools:**  
