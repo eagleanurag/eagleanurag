@@ -39,7 +39,8 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 - 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
 - 🤹🏽 Fields I enjoy the most :
   - 🤖 Robotics 
-  - 🎛 Embedded Systems
+  - 🚜 Self Drivng Car
+  - 🎛  Embedded Systems
   - 🖼 Computer Vision
   - 🛩️ FPV Drones & UAV
   - 🛠 DIY IoT
