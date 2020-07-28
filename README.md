@@ -91,7 +91,7 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 
 **Areas On Which I Work:**  
 
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1596/1596639.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2235/2235061.svg"></code>
