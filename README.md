@@ -92,7 +92,7 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 **Areas On Which I Work:**  
 
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1596/1596639.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/944/944179.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2235/2235061.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
@@ -102,9 +102,8 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2885/2885535.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3056/3056301.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/3118/3118399.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/3003/3003696.svg"></code>
 
 
 
