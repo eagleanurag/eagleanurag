@@ -89,7 +89,7 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-**Languages and Tools:**  
+**Areas On Which I Work:**  
 
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
