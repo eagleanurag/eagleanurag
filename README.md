@@ -94,7 +94,7 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/3253/3253345.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
