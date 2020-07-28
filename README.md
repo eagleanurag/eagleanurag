@@ -86,7 +86,7 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 
 ```
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/openquadd.gif" />
 <!--END_SECTION:waka-->
 
 **Languages and Tools:**  
@@ -106,8 +106,6 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 
 
 ![eagleanurag's github stats](https://github-readme-stats.vercel.app/api?username=eagleanurag&show_icons=true&hide_border=true)
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/openquad.gif" />
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/eagleanurag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
