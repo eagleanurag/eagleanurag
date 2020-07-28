@@ -102,6 +102,9 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2885/2885535.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3056/3056301.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
 
 
