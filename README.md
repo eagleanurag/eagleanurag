@@ -41,7 +41,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
   - 🤖 Robotics 
   - 🎛 Embedded Systems
   - 🖼 Computer Vision
-  - 📊 Data Science
+  - 🛩️ FPV Drones & UAV
   - 🛠 DIY IoT
 - 📈 I’m learning Go;
 - 💬 Ask me about anything, I am happy to help;
