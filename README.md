@@ -30,7 +30,7 @@
 I'm a **Graduate Student 👨🏽‍💼 [@UTU](https://uktech.ac.in/)** in India. <br />
 I'm a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**  <br />
 I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS).  <br />
-Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
+Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Automobile. <br />
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/openquad.gif" />
   
