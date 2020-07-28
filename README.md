@@ -32,7 +32,7 @@ I'm a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hive
 I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS).  <br />
 Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/adham-elarabawy/OpenQuadruped/master/media/SideView.png" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/openquad.gif" />
   
 **Miscellaneous:**
 
@@ -106,6 +106,8 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 
 
 ![eagleanurag's github stats](https://github-readme-stats.vercel.app/api?username=eagleanurag&show_icons=true&hide_border=true)
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/openquad.gif" />
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/eagleanurag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
