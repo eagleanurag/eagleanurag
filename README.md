@@ -38,12 +38,12 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 
 - 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
 - 🤹🏽 Fields I enjoy the most :
-  - 🤖 Robotics 
-  - 🚜 Self Drivng Car
-  - 🎛  Embedded Systems
-  - 🖼 Computer Vision
-  - 🛩️ FPV Drones & UAV
-  - 🛠 DIY IoT
+  - [🤖](https://coursera.org/share/a237c8f82d157c1a3c5cd601e1da855f) Robotics  
+  - [🚜](https://coursera.org/share/402fe3487673e5484084007a7bb66602) Self Drivng Car
+  - [🎛](https://coursera.org/share/d6b710bd5043dc3297f2f40473d0d4e1)  Embedded Systems
+  - [🖼](https://coursera.org/share/60f858b3923d6089999b77303599f758) Computer Vision
+  - [🛩️]() FPV Drones & UAV
+  - [🛠](https://coursera.org/share/6db505a2616af40dca190c56600b7e13) DIY IoT
 - 📈 I’m learning Go;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: An associate professor responsible for one of my academic projects (Xenomai/ROS bridge) is currently pushing for a publication.
@@ -103,7 +103,7 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
-<code><img height="10" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
 
 
 
