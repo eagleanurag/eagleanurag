@@ -95,15 +95,15 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 <code><img height="50" src="https://image.flaticon.com/icons/svg/944/944179.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2235/2235061.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2885/2885535.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3056/3056301.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3118/3118399.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3003/3003696.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
 
 
 
