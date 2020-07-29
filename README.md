@@ -32,7 +32,7 @@ I'm a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hive
 I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS).  <br />
 Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Automobile. <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/2Faz5nJ5Atmb8sg24/giphy.gif" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/quadcopter.gif" />
   
 **Miscellaneous:**
 
@@ -48,7 +48,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: An associate professor responsible for one of my academic projects (Xenomai/ROS bridge) is currently pushing for a publication.
 - 📫 How to reach me: <helpmeinproject@gmail.com>;
-- 📝[Resume](https://github.com/eagleanurag/eagleanurag.github.io/raw/master/res/resume_jan20_eng.pdf)
+- 📝[Resume](https://github.com/eagleanurag/eagleanurag.github.io/raw/master/res/resume_ja...n20_eng.pdf)
 
 **:zap: Recent Activity:**
 
