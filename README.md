@@ -28,8 +28,8 @@
 </a> <br /> <br />
 
 I'm a **Graduate Student 👨🏽‍💼 [@UTU](https://uktech.ac.in/)** in India. <br />
-I'm a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**  <br />
-I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS).  <br />
+I'm an **Electrical Engineering Student / Mad Researcher [@eagleanurag](https://www.eagleanurag.blogspot.com)**  <br />
+I love to create real world projects and playing with them.  📢 [@projects](https://instagram.com/eagleanurag)  <br />
 Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Automobile. <br />
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/quadcopter.gif" />
@@ -46,7 +46,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
   - [🛠](https://coursera.org/share/6db505a2616af40dca190c56600b7e13) DIY IoT
 - 📈 I’m learning Go;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: An associate professor responsible for one of my academic projects (Xenomai/ROS bridge) is currently pushing for a publication.
+- ⚡️ Fun-Fact: Well trying for a fresh and first Research Publication.
 - 📫 How to reach me: <helpmeinproject@gmail.com>;
 - 📝[Resume](https://github.com/eagleanurag/eagleanurag.github.io/raw/master/res/resume_ja...n20_eng.pdf)
 
