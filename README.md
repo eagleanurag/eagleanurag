@@ -27,7 +27,7 @@
   <img align="left" alt="eagleanurag's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
 </a> <br /> <br />
 
-I'm a **Graduate Student 👨🏽‍💼 [@UTU](https://uktech.ac.in/)** in India. <br />
+I'm a **Under Grad. Student 👨🏽‍💼 [@UTU](https://uktech.ac.in/)** in India. <br />
 I'm an **Electrical Engineering Student / Mad Researcher [@eagleanurag](https://www.eagleanurag.blogspot.com)**  <br />
 I love to create real world projects and playing with them.  📢 [@projects](https://instagram.com/eagleanurag)  <br />
 Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Automobile. <br />
@@ -79,10 +79,10 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ⌚︎ Timezone: India Standard Time
 
 💬 Languages: 
-Go                       23 hrs 28 mins      ██████████████░░░░░░░░░░░   56.98% 
-Bash                     11 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   28.6% 
-Protocol Buffer          1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.68% 
-Julia                    1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
+C/C++                    23 hrs 28 mins      ██████████████░░░░░░░░░░░   56.98% 
+Python                   11 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   28.6%
+html/css                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   3.77%
+Matlab                   1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   4.68% 
 Other                    1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.54%
 
 ```
