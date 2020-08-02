@@ -48,7 +48,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Well trying for a fresh and first Research Publication.
 - 📫 How to reach me: <helpmeinproject@gmail.com>;
-- 📝[Resume](https://github.com/eagleanurag/eagleanurag.github.io/raw/master/res/resume_ja...n20_eng.pdf)
+- 📝[Resume](https://github.com/eagleanurag/eagleanurag.github.io/raw/master/res/resume_jan20_eng.pdf)
 
 **:zap: Recent Activity:**
 
