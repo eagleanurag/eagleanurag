@@ -62,7 +62,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 
 
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
+**I Love ** <code><img height="15" src="https://image.flaticon.com/icons/svg/862/862511.svg"></code>
 
 ```text
 🌞 Morning    262 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
