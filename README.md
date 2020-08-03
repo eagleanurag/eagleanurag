@@ -87,6 +87,9 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 
 ```
 
+**Timeline**
+
+![Chart not found](https://github.com/guilyx/guilyx/blob/master/charts/bar_graph.png) 
 <!--END_SECTION:waka-->
 
 **Areas On Which I Work:**  
