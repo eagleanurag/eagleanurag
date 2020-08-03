@@ -1,5 +1,5 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/wakatime-stats/badge.svg)](https://github.com/eagleanurag/eagleanurag/actions)
+[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg)](https://github.com/eagleanurag/eagleanurag/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
 ### Hello 👋, I'm [eagleanurag](https://eagleanurag.github.io) 
