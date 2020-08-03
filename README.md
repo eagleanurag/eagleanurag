@@ -62,7 +62,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 
 
 <!--START_SECTION:waka-->
-**I Love Robots** <code><img height="35" src="https://image.flaticon.com/icons/png/512/35/35486.png"></code>
+**I Love Robots,** <code><img height="35" src="https://image.flaticon.com/icons/png/512/35/35486.png"></code> **and they too love me!**
 
 ```text
 🌞 Morning    262 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
