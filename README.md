@@ -72,6 +72,12 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 
 ```
 
+**Timeline**
+
+![Chart not found](https://github.com/eagleanurag/eagleanurag/blob/master/img/bar_graph.png) 
+<!--END_SECTION:waka-->
+
+
 
 📊 **This week I spent my time on** 
 
@@ -86,11 +92,6 @@ Matlab                   1 hr 55 mins        ███░░░░░░░░�
 Other                    1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.54%
 
 ```
-
-**Timeline**
-
-![Chart not found](https://github.com/guilyx/guilyx/blob/master/charts/bar_graph.png) 
-<!--END_SECTION:waka-->
 
 **Areas On Which I Work:**  
 
