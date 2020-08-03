@@ -1,5 +1,5 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)]()
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)]()
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-628-blue)
 
