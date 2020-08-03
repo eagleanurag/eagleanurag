@@ -27,8 +27,8 @@
   <img align="left" alt="eagleanurag's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
 </a> <br /> <br />
 
-I'm a **Under Grad. Student 👨🏽‍💼 [@UTU](https://uktech.ac.in/)** in India. <br />
-I'm an **Electrical Engineering Student / Mad Researcher [@eagleanurag](https://www.eagleanurag.blogspot.com)**  <br />
+I'm an **Under Grad. Student👨‍🎓 [@UTU](https://uktech.ac.in/)** in India. <br />
+I'm an **Electrical Engineering Student⚡ / Mad Researcher🤿 [@eagleanurag](https://www.eagleanurag.blogspot.com)**  <br />
 I love to create real world projects and playing with them.  📢 [@projects](https://instagram.com/eagleanurag)  <br />
 Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Automobile. <br />
 
@@ -62,7 +62,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 
 
 <!--START_SECTION:waka-->
-**I Love** <code><img height="35" src="https://image.flaticon.com/icons/png/512/35/35486.png"></code>
+**I Love Robots** <code><img height="35" src="https://image.flaticon.com/icons/png/512/35/35486.png"></code>
 
 ```text
 🌞 Morning    262 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
