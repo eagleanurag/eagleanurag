@@ -54,12 +54,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#670](https://github.com//JonathanGin52/JonathanGin52/issues/670) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-2. ❗️ Closed issue [#3](https://github.com//eagleanurag/eagleanurag/issues/3) in [eagleanurag/eagleanurag](https://github.com//eagleanurag/eagleanurag)
-3. 🗣 Commented on [#3](https://github.com//eagleanurag/eagleanurag/issues/3) in [eagleanurag/eagleanurag](https://github.com//eagleanurag/eagleanurag)
-4. ❗️ Opened issue [#669](https://github.com//JonathanGin52/JonathanGin52/issues/669) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#668](https://github.com//JonathanGin52/JonathanGin52/issues/668) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-<!--END_SECTION:activity-->
+
 
 <img src="https://github.com/eagleanurag/eagleanurag/blob/master/images/stat.svg" alt="eagleanurag WakaTime Activity"/>
 
