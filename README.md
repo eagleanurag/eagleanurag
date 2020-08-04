@@ -1,3 +1,5 @@
+<img src="https://github.com/eagleanurag/eagleanurag/blob/master/images/stat.svg" alt="eagleanurag WakaTime Activity"/>
+
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)]()
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)]()
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
