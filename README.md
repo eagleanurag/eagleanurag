@@ -1,5 +1,3 @@
-<img src="https://github.com/eagleanurag/eagleanurag/blob/master/images/stat.svg" alt="eagleanurag WakaTime Activity"/>
-
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)]()
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)]()
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
@@ -63,7 +61,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 5. 💪 Opened PR [#1](https://github.com//trcclub/gh-secrets-action/pull/1) in [trcclub/gh-secrets-action](https://github.com//trcclub/gh-secrets-action)
 <!--END_SECTION:activity-->
 
-
+<img src="https://github.com/eagleanurag/eagleanurag/blob/master/images/stat.svg" alt="eagleanurag WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
 **I Love Robots,** <code><img height="35" src="https://image.flaticon.com/icons/png/512/35/35486.png"></code> **and they too love me!**
