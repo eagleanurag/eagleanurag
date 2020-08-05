@@ -5,8 +5,6 @@
 
 ### Hello 👋, I'm [eagleanurag](https://eagleanurag.github.io) 
 
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/eaglecode.gif" />
-
 
 <br/>
 <a href="https://twitter.com/eagleanurag">
@@ -119,3 +117,6 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 <p align="center">
 <a href="https://www.buymeacoffee.com/eagleanurag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
+
+
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/eaglecode.gif" />
