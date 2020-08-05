@@ -5,6 +5,9 @@
 
 ### Hello 👋, I'm [eagleanurag](https://eagleanurag.github.io) 
 
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/eaglecode.gif" />
+
+
 <br/>
 <a href="https://twitter.com/eagleanurag">
   <img align="left" alt="eagleanurag | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
