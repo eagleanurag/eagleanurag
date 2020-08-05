@@ -54,11 +54,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#139](https://github.com//JessicaLim8/JessicaLim8/issues/139) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-2. ❗️ Opened issue [#138](https://github.com//JessicaLim8/JessicaLim8/issues/138) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-3. 🗣 Commented on [#64](https://github.com//kornicameister/gh-secrets-action/issues/64) in [kornicameister/gh-secrets-action](https://github.com//kornicameister/gh-secrets-action)
-4. ❗️ Opened issue [#680](https://github.com//JonathanGin52/JonathanGin52/issues/680) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#670](https://github.com//JonathanGin52/JonathanGin52/issues/670) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+1. 🎉 Merged PR [#1](https://github.com//eagleanurag/self-driving-car-sim/pull/1) in [eagleanurag/self-driving-car-sim](https://github.com//eagleanurag/self-driving-car-sim)
+2. 💪 Opened PR [#1](https://github.com//eagleanurag/self-driving-car-sim/pull/1) in [eagleanurag/self-driving-car-sim](https://github.com//eagleanurag/self-driving-car-sim)
+3. ❗️ Opened issue [#139](https://github.com//JessicaLim8/JessicaLim8/issues/139) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+4. ❗️ Opened issue [#138](https://github.com//JessicaLim8/JessicaLim8/issues/138) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+5. 🗣 Commented on [#64](https://github.com//kornicameister/gh-secrets-action/issues/64) in [kornicameister/gh-secrets-action](https://github.com//kornicameister/gh-secrets-action)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
