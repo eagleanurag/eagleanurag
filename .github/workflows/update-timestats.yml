@@ -1,5 +1,4 @@
-name: WakaTime stat update in README.md
-
+name: wakatime-stats
 on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
