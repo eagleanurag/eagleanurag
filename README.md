@@ -61,9 +61,6 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 5. ❗️ Opened issue [#668](https://github.com//JonathanGin52/JonathanGin52/issues/668) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
-
-<img src="https://github.com/eagleanurag/eagleanurag/blob/master/images/stat.svg" alt="eagleanurag WakaTime Activity"/>
-
 <!--START_SECTION:waka-->
 **I Love Robots,** <code><img height="35" src="https://image.flaticon.com/icons/png/512/35/35486.png"></code> **and they too love me!**
 
