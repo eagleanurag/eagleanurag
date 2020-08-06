@@ -55,11 +55,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#709](https://github.com//JonathanGin52/JonathanGin52/issues/709) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#146](https://github.com//JessicaLim8/JessicaLim8/issues/146) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-3. ❗️ Closed issue [#64](https://github.com//kornicameister/gh-secrets-action/issues/64) in [kornicameister/gh-secrets-action](https://github.com//kornicameister/gh-secrets-action)
-4. ❗️ Opened issue [#1](https://github.com//SeppPenner/PdfPasswordRemover/issues/1) in [SeppPenner/PdfPasswordRemover](https://github.com//SeppPenner/PdfPasswordRemover)
-5. 🎉 Merged PR [#4](https://github.com//eagleanurag/self-driving-car-sim/pull/4) in [eagleanurag/self-driving-car-sim](https://github.com//eagleanurag/self-driving-car-sim)
+1. 🗣 Commented on [#1](https://github.com//SeppPenner/PdfPasswordRemover/issues/1) in [SeppPenner/PdfPasswordRemover](https://github.com//SeppPenner/PdfPasswordRemover)
+2. ❗️ Opened issue [#709](https://github.com//JonathanGin52/JonathanGin52/issues/709) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#146](https://github.com//JessicaLim8/JessicaLim8/issues/146) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+4. ❗️ Closed issue [#64](https://github.com//kornicameister/gh-secrets-action/issues/64) in [kornicameister/gh-secrets-action](https://github.com//kornicameister/gh-secrets-action)
+5. ❗️ Opened issue [#1](https://github.com//SeppPenner/PdfPasswordRemover/issues/1) in [SeppPenner/PdfPasswordRemover](https://github.com//SeppPenner/PdfPasswordRemover)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
