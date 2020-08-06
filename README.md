@@ -63,6 +63,8 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 **I Love Robots,** <code><img height="35" src="https://image.flaticon.com/icons/png/512/35/35486.png"></code> **and they too love me!**
 
 ```text
@@ -76,7 +78,6 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 **Timeline**
 
 ![Chart not found](https://github.com/eagleanurag/eagleanurag/blob/master/img/bar_graph.png) 
-<!--END_SECTION:waka-->
 
 
 
