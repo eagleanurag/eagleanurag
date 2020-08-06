@@ -119,4 +119,4 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 </p>
 
 
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/eaglecode.gif" />
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/eaglecmd.gif" />
