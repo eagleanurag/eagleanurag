@@ -63,6 +63,77 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-636-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 272 Contributions in year 2020
+ > 
+> 📦 Used 55.0 kB in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 82 Public Repositories 
+ > 
+> 🔑 0 Owned Private Repository 
+ > 
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
+🌆 Daytime    94 commits     █████████████░░░░░░░░░░░░   53.71% 
+🌃 Evening    56 commits     ████████░░░░░░░░░░░░░░░░░   32.0% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
+
+```
+📅 **I'm Most Productive on Tuesdays** 
+
+```text
+Monday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
+Tuesday      95 commits     █████████████░░░░░░░░░░░░   54.29% 
+Wednesday    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
+Thursday     16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.14% 
+Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
+Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
+Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Asia/Kolkata
+
+💬 Languages: 
+No Activity tracked this Week
+
+🔥 Editors: 
+No Activity tracked this Week
+
+🐱‍💻 Projects: 
+No Activity tracked this Week
+
+💻 Operating Systems: 
+No Activity tracked this Week
+
+```
+
+**I mostly code in C++** 
+
+```text
+C++          2 repos        ████████████░░░░░░░░░░░░░   50.0% 
+Assembly     1 repos        ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+HTML         1 repos        ██████░░░░░░░░░░░░░░░░░░░   25.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/eagleanurag/eagleanurag/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 **I Love Robots,** <code><img height="35" src="https://image.flaticon.com/icons/png/512/35/35486.png"></code> **and they too love me!**
