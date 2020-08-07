@@ -138,10 +138,6 @@ HTML         1 repos        ██████░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/guyinfrontsystem.gif" />
-
-
-
 **I Love Robots,** <code><img height="35" src="https://image.flaticon.com/icons/png/512/35/35486.png"></code> **and they too love me!**
 
 
@@ -164,6 +160,7 @@ HTML         1 repos        ██████░░░░░░░░░░░�
 
 
 ![eagleanurag's github stats](https://github-readme-stats.vercel.app/api?username=eagleanurag&show_icons=true&hide_border=true)
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/guyinfrontsystem.gif" />
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/eagleanurag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
