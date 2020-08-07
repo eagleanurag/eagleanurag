@@ -1,7 +1,5 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)]()
+[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/wakatime-stats/badge.svg)]()
 [![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg)]()
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-628-blue)
 
 ### Hello 👋, I'm [eagleanurag](https://eagleanurag.github.io) 
 
@@ -61,6 +59,9 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 4. ❗️ Opened issue [#151](https://github.com//JessicaLim8/JessicaLim8/issues/151) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
 5. ❗️ Opened issue [#150](https://github.com//JessicaLim8/JessicaLim8/issues/150) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
+
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/leviateddev.gif" />
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-636-blue)
@@ -135,6 +136,11 @@ HTML         1 repos        ██████░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/guyinfrontsystem.gif" />
+
+
 
 **I Love Robots,** <code><img height="35" src="https://image.flaticon.com/icons/png/512/35/35486.png"></code> **and they too love me!**
 
