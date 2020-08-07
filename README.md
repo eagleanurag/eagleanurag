@@ -55,11 +55,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#755](https://github.com//JonathanGin52/JonathanGin52/issues/755) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#754](https://github.com//JonathanGin52/JonathanGin52/issues/754) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-3. ❗️ Opened issue [#151](https://github.com//JessicaLim8/JessicaLim8/issues/151) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-4. ❗️ Opened issue [#150](https://github.com//JessicaLim8/JessicaLim8/issues/150) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-5. 🗣 Commented on [#1](https://github.com//SeppPenner/PdfPasswordRemover/issues/1) in [SeppPenner/PdfPasswordRemover](https://github.com//SeppPenner/PdfPasswordRemover)
+1. 🗣 Commented on [#1](https://github.com//SeppPenner/PdfPasswordRemover/issues/1) in [SeppPenner/PdfPasswordRemover](https://github.com//SeppPenner/PdfPasswordRemover)
+2. ❗️ Opened issue [#755](https://github.com//JonathanGin52/JonathanGin52/issues/755) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#754](https://github.com//JonathanGin52/JonathanGin52/issues/754) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+4. ❗️ Opened issue [#151](https://github.com//JessicaLim8/JessicaLim8/issues/151) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+5. ❗️ Opened issue [#150](https://github.com//JessicaLim8/JessicaLim8/issues/150) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
