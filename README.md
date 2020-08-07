@@ -157,10 +157,10 @@ HTML         1 repos        ██████░░░░░░░░░░░�
 <code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/guyinfrontsystem.gif" />
 
 ![eagleanurag's github stats](https://github-readme-stats.vercel.app/api?username=eagleanurag&show_icons=true&hide_border=true)
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/guyinfrontsystem.gif" />
+  
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/eagleanurag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
