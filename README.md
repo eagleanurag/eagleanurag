@@ -160,3 +160,21 @@ HTML         1 repos        ██████░░░░░░░░░░░�
 
 
   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/eaglecmd.gif" />
+
+
+
+<details><summary>Click Me For Little More Magic Words!</summary>
+
+  So from the very beginning, I was a bit passionate about robotics related stuff 
+  and always wanted to be an Engineer in Defence Services. I love Drones and UAV, 
+  as flying FPV Racing Drones is my Hobby. I remember I made nearly hundreds of 
+  Electronics, Electrical, Programming, Robotics, Mechanical subjects based projects
+  from myself and also for Final Year Students of Engineering. 
+
+  -----
+
+  Professionally I-m good in Arduino Programming and Open-Source Hardware Development. 
+  Familiar with the electrical system of two/four-wheel Vehicle. Being FPV pilot I know
+  about Drone-UAV Design, Manufacturing and Aeromodeling.. 
+
+</details>
