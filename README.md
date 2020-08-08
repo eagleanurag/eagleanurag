@@ -60,7 +60,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 5. ❗️ Opened issue [#150](https://github.com//JessicaLim8/JessicaLim8/issues/150) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/leviateddev.gif" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/metyro.gif" />
 
 
 <!--START_SECTION:waka-->
