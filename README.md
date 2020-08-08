@@ -154,8 +154,6 @@ HTML         1 repos        ██████░░░░░░░░░░░�
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/guyinfrontsystem.gif" />
-
-![eagleanurag's github stats](https://github-readme-stats.vercel.app/api?username=eagleanurag&show_icons=true&hide_border=true)
   
 
 <p align="center">
