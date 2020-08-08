@@ -164,8 +164,6 @@ HTML         1 repos        ██████░░░░░░░░░░░�
 </p>
 
 
-**<details><summary>↩️Click↩️ To Hack This Repo!</summary>**
-
   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/eaglecmd.gif" />
 
 
@@ -183,7 +181,5 @@ HTML         1 repos        ██████░░░░░░░░░░░�
   Professionally I-m good in Arduino Programming and Open-Source Hardware Development. 
   Familiar with the electrical system of two/four-wheel Vehicle. Being FPV pilot I know
   about Drone-UAV Design, Manufacturing and Aeromodeling.. 
-
-</details>
 
 </details>
