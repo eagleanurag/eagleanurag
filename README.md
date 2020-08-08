@@ -50,7 +50,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 - 📫 How to reach me: <helpmeinproject@gmail.com>;
 - 📝[Resume](https://github.com/eagleanurag/eagleanurag.github.io/raw/master/res/resume_jan20_eng.pdf)
 
-### <details><summary>Click Me For Little More Magic Words!</summary>
+ **<details><summary>↩️Click↩️ To Unlock My Github Activity!</summary>**
 
 ### :zap: Recent Activity
 
