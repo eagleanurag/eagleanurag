@@ -53,11 +53,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#91](https://github.com//rossjrw/rossjrw/issues/91) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
-2. ❗️ Opened issue [#90](https://github.com//rossjrw/rossjrw/issues/90) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
-3. ❗️ Opened issue [#89](https://github.com//rossjrw/rossjrw/issues/89) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
-4. 🗣 Commented on [#1](https://github.com//SeppPenner/PdfPasswordRemover/issues/1) in [SeppPenner/PdfPasswordRemover](https://github.com//SeppPenner/PdfPasswordRemover)
-5. ❗️ Opened issue [#755](https://github.com//JonathanGin52/JonathanGin52/issues/755) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+1. 🗣 Commented on [#1](https://github.com//SeppPenner/PdfPasswordRemover/issues/1) in [SeppPenner/PdfPasswordRemover](https://github.com//SeppPenner/PdfPasswordRemover)
+2. ❗️ Opened issue [#755](https://github.com//JonathanGin52/JonathanGin52/issues/755) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#754](https://github.com//JonathanGin52/JonathanGin52/issues/754) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+4. ❗️ Opened issue [#151](https://github.com//JessicaLim8/JessicaLim8/issues/151) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+5. ❗️ Opened issue [#150](https://github.com//JessicaLim8/JessicaLim8/issues/150) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/metyro.gif" />
@@ -163,7 +163,7 @@ HTML         1 repos        ██████░░░░░░░░░░░�
 
 
 
-<details><summary>Click Me For Little More Magic Words!</summary>
+**<details><summary>Click Me For Little More Magic Words!</summary>**
 
   So from the very beginning, I was a bit passionate about robotics related stuff 
   and always wanted to be an Engineer in Defence Services. I love Drones and UAV, 
