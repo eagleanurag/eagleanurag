@@ -50,7 +50,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 - 📫 How to reach me: <helpmeinproject@gmail.com>;
 - 📝[Resume](https://github.com/eagleanurag/eagleanurag.github.io/raw/master/res/resume_jan20_eng.pdf)
 
- **<details><summary>↩️Click↩️ To Unlock My Github Activity!</summary>**
+ 
 
 ### :zap: Recent Activity
 
@@ -135,7 +135,7 @@ HTML         1 repos        ██████░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</details>
+
 
 
 
@@ -164,6 +164,8 @@ HTML         1 repos        ██████░░░░░░░░░░░�
 </p>
 
 
+**<details><summary>↩️Click↩️ To Hack This Repo!</summary>**
+
   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/eaglecmd.gif" />
 
 
@@ -181,5 +183,7 @@ HTML         1 repos        ██████░░░░░░░░░░░�
   Professionally I-m good in Arduino Programming and Open-Source Hardware Development. 
   Familiar with the electrical system of two/four-wheel Vehicle. Being FPV pilot I know
   about Drone-UAV Design, Manufacturing and Aeromodeling.. 
+
+</details>
 
 </details>
