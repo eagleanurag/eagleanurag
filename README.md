@@ -55,11 +55,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3834](https://github.com//timburgan/timburgan/issues/3834) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-2. ❗️ Opened issue [#802](https://github.com//JonathanGin52/JonathanGin52/issues/802) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-3. 🗣 Commented on [#7](https://github.com//amusi/Deep-Learning-Interview-Book/issues/7) in [amusi/Deep-Learning-Interview-Book](https://github.com//amusi/Deep-Learning-Interview-Book)
-4. ❗️ Opened issue [#91](https://github.com//rossjrw/rossjrw/issues/91) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
-5. ❗️ Opened issue [#90](https://github.com//rossjrw/rossjrw/issues/90) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
+1. ❗️ Opened issue [#3835](https://github.com//timburgan/timburgan/issues/3835) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+2. ❗️ Opened issue [#169](https://github.com//JessicaLim8/JessicaLim8/issues/169) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+3. ❗️ Opened issue [#168](https://github.com//JessicaLim8/JessicaLim8/issues/168) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+4. ❗️ Opened issue [#167](https://github.com//JessicaLim8/JessicaLim8/issues/167) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+5. ❗️ Opened issue [#3834](https://github.com//timburgan/timburgan/issues/3834) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
 <!--END_SECTION:activity-->
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/metyro.gif" />
