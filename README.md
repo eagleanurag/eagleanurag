@@ -175,10 +175,10 @@ HTML                     1 repos             ████████░░░�
   Electronics, Electrical, Programming, Robotics, Mechanical subjects based projects
   from myself and also for Final Year Students of Engineering. 
 
-  -----        <img align="center" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" />
+  -----
 
   Professionally I-m good in Arduino Programming and Open-Source Hardware Development. 
   Familiar with the electrical system of two/four-wheel Vehicle. Being FPV pilot I know
   about Drone-UAV Design, Manufacturing and Aeromodeling.. 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" />
 </details>
