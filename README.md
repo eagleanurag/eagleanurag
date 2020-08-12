@@ -5,7 +5,7 @@
 
 
 <br/>
-<a href="https://twitter.com/eagleanurag" TARGET="_blank" >
+<a href="https://twitter.com/eagleanurag" target="_blank">
   <img align="left" alt="eagleanurag | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/eagleanurag" target="_blank">
