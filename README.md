@@ -5,25 +5,25 @@
 
 
 <br/>
-<a href="https://twitter.com/eagleanurag">
+<a href="https://twitter.com/eagleanurag" target="_blank">
   <img align="left" alt="eagleanurag | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
-<a href="https://www.linkedin.com/in/eagleanurag">
+<a href="https://www.linkedin.com/in/eagleanurag" target="_blank">
   <img align="left" alt="eagleanurag's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-<a href="https://www.facebook.com/eagleanurag">
+<a href="https://www.facebook.com/eagleanurag" target="_blank">
   <img align="left" alt="eagleanurag's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="https://www.instagram.com/eagleanurag">
+<a href="https://www.instagram.com/eagleanurag" target="_blank">
   <img align="left" alt="eagleanurag's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA" target="_blank">
   <img align="left" alt="eagleanurag's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
-<a href="https://www.codewars.com/users/eagleanurag">
+<a href="https://www.codewars.com/users/eagleanurag" target="_blank">
   <img align="left" alt="eagleanurag's Codewars" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
 </a>
-<a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992">
+<a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992" target="_blank">
   <img align="left" alt="eagleanurag's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
 </a> <br /> <br />
 
@@ -34,7 +34,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 
 
 </a>
-<a href="https://eagleanurag.blogspot.com/">
+<a href="https://eagleanurag.blogspot.com/" target="_blank">
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/doggo%20jumps.gif" />
 </a>
 
@@ -68,7 +68,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 <!--END_SECTION:activity-->
 
 </a>
-<a href="https://coursera.org/share/161ae3ce943f2ef62458cb811910ff07">
+<a href="https://coursera.org/share/161ae3ce943f2ef62458cb811910ff07" target="_blank">
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/metyro.gif" />
 </a>
 
