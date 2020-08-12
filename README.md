@@ -32,7 +32,7 @@ I'm an **Electrical Engineering Student⚡ / Mad Researcher🤿 [@eagleanurag](h
 I love to create real world projects and playing with them.  📢 [@projects](https://instagram.com/eagleanurag)  <br />
 Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Automobile. <br />
 
-  <img align="right" alt="GIF" href="https://coursera.org/share/161ae3ce943f2ef62458cb811910ff07" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/doggo%20jumps.gif" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/doggo%20jumps.gif" />
   
 **Miscellaneous:**
 
