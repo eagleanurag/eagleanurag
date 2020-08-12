@@ -184,5 +184,5 @@ HTML                     1 repos             ████████░░░�
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" />
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" />
 </details>
