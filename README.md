@@ -32,7 +32,12 @@ I'm an **Electrical Engineering Student⚡ / Mad Researcher🤿 [@eagleanurag](h
 I love to create real world projects and playing with them.  📢 [@projects](https://instagram.com/eagleanurag)  <br />
 Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Automobile. <br />
 
+
+</a>
+<a href="https://eagleanurag.blogspot.com/">
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/doggo%20jumps.gif" />
+</a>
+
   
 **Miscellaneous:**
 
@@ -62,8 +67,10 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 5. ❗️ Opened issue [#3920](https://github.com//timburgan/timburgan/issues/3920) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
 <!--END_SECTION:activity-->
 
+</a>
+<a href="https://coursera.org/share/161ae3ce943f2ef62458cb811910ff07">
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/metyro.gif" />
-
+</a>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-584-blue)
