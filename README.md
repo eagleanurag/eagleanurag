@@ -174,7 +174,7 @@ HTML                     1 repos             ████████░░░�
 
 
 
-***<details><summary>Click Me For Little More Magic Words!<img height="35" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/left.gif" /></summary>***
+***<details><summary>Click Me For Little More Magic Words!<img height="55" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/robotdance.gif" /></summary>***
 
   So from the very beginning, I was a bit passionate about robotics related stuff 
   and always wanted to be an Engineer in Defence Services. I love Drones and UAV, 
