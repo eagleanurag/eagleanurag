@@ -186,7 +186,7 @@ HTML                     1 repos             ████████░░░�
 
   Professionally I-m good in Arduino Programming and Open-Source Hardware Development. 
   Familiar with the electrical system of two/four-wheel Vehicle. Being FPV pilot I know
-  about Drone-UAV Design, Manufacturing and Aeromodeling.. 
+  about Drone-UAV Design, Manufacturing and Aeromodeling.
 
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" />
