@@ -73,11 +73,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-573-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-570-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 327 Contributions in year 2020
+> 🏆 336 Contributions in year 2020
  > 
 > 📦 Used 56.9 kB in GitHub's Storage 
  > 
