@@ -174,7 +174,7 @@ HTML                     1 repos             ████████░░░�
 
 
 
-### <details><summary>Click Me For Little More Magic Words!</summary>
+<details> ### <summary>Click Me For Little More Magic Words!</summary>
 
   So from the very beginning, I was a bit passionate about robotics related stuff 
   and always wanted to be an Engineer in Defence Services. I love Drones and UAV, 
