@@ -73,13 +73,13 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-570-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-562-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 336 Contributions in year 2020
+> 🏆 348 Contributions in year 2020
  > 
-> 📦 Used 56.9 kB in GitHub's Storage 
+> 📦 Used 58.1 kB in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -101,9 +101,9 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ```text
 Monday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
 Tuesday      75 commits     ██████████░░░░░░░░░░░░░░░   42.13% 
-Wednesday    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
-Thursday     16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
-Friday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
+Wednesday    21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
+Thursday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
+Friday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
 Saturday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.18% 
 Sunday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
 
