@@ -73,21 +73,21 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-556-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-543-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 348 Contributions in year 2020
+> 🏆 348 Contributions in the year 2020
  > 
-> 📦 Used 58.1 kB in GitHub's Storage 
+> 📦 58.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 38 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
@@ -96,7 +96,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 🌙 Night      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.93%
 
 ```
-📅 **I'm Most Productive on Tuesdays** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
@@ -110,26 +110,26 @@ Sunday       14 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Kolkata
+⌚︎ Time zone: Asia/Kolkata
 
-💬 Languages: 
-No Activity tracked this Week
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity tracked this Week
+🔥 Code Editors: 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-No Activity tracked this Week
+No Activity Tracked This Week
 
-💻 Operating Systems: 
-No Activity tracked this Week
+💻 Operating System: 
+No Activity Tracked This Week
 
 ```
 
-**I mostly code in C++** 
+**I Mostly Code in C++** 
 
 ```text
 C++                      2 repos             ████████████████░░░░░░░░░   66.67% 
