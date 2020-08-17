@@ -60,11 +60,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#207](https://github.com//JessicaLim8/JessicaLim8/issues/207) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-2. ❗️ Opened issue [#206](https://github.com//JessicaLim8/JessicaLim8/issues/206) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-3. ❗️ Opened issue [#205](https://github.com//JessicaLim8/JessicaLim8/issues/205) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-4. ❗️ Opened issue [#204](https://github.com//JessicaLim8/JessicaLim8/issues/204) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-5. ❗️ Opened issue [#203](https://github.com//JessicaLim8/JessicaLim8/issues/203) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+1. 🗣 Commented on [#1](https://github.com//SeppPenner/PdfPasswordRemover/issues/1) in [SeppPenner/PdfPasswordRemover](https://github.com//SeppPenner/PdfPasswordRemover)
+2. ❗️ Opened issue [#2](https://github.com//eagleanurag/RC-Plane-Wing-CG-Calculator/issues/2) in [eagleanurag/RC-Plane-Wing-CG-Calculator](https://github.com//eagleanurag/RC-Plane-Wing-CG-Calculator)
+3. ❗️ Opened issue [#1](https://github.com//eagleanurag/RC-Plane-Wing-CG-Calculator/issues/1) in [eagleanurag/RC-Plane-Wing-CG-Calculator](https://github.com//eagleanurag/RC-Plane-Wing-CG-Calculator)
+4. ❗️ Opened issue [#207](https://github.com//JessicaLim8/JessicaLim8/issues/207) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+5. ❗️ Opened issue [#206](https://github.com//JessicaLim8/JessicaLim8/issues/206) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 </a>
