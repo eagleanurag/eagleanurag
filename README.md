@@ -1,10 +1,12 @@
 [![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/wakatime-stats/badge.svg)]()
 [![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg)]()
 
+<img align="right" alt="GIF" src="https://profile-counter.glitch.me/eagleanurag/count.svg" />
+
 ### Hello 👋, I'm [eagleanurag](https://eagleanurag.github.io) 
 
-
 <br/>
+
 <a href="https://twitter.com/eagleanurag" target="_blank">
   <img align="left" alt="eagleanurag | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
