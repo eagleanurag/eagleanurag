@@ -62,11 +62,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com//sw-yx/sw-yx/issues/24) in [sw-yx/sw-yx](https://github.com//sw-yx/sw-yx)
-2. ❗️ Opened issue [#23](https://github.com//sw-yx/sw-yx/issues/23) in [sw-yx/sw-yx](https://github.com//sw-yx/sw-yx)
-3. ❗️ Opened issue [#22](https://github.com//sw-yx/sw-yx/issues/22) in [sw-yx/sw-yx](https://github.com//sw-yx/sw-yx)
-4. ❗️ Opened issue [#21](https://github.com//sw-yx/sw-yx/issues/21) in [sw-yx/sw-yx](https://github.com//sw-yx/sw-yx)
-5. 💪 Opened PR [#279](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/279) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+1. 💪 Opened PR [#282](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/282) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+2. ❗️ Opened issue [#24](https://github.com//sw-yx/sw-yx/issues/24) in [sw-yx/sw-yx](https://github.com//sw-yx/sw-yx)
+3. ❗️ Opened issue [#23](https://github.com//sw-yx/sw-yx/issues/23) in [sw-yx/sw-yx](https://github.com//sw-yx/sw-yx)
+4. ❗️ Opened issue [#22](https://github.com//sw-yx/sw-yx/issues/22) in [sw-yx/sw-yx](https://github.com//sw-yx/sw-yx)
+5. ❗️ Opened issue [#21](https://github.com//sw-yx/sw-yx/issues/21) in [sw-yx/sw-yx](https://github.com//sw-yx/sw-yx)
 <!--END_SECTION:activity-->
 
 </a>
