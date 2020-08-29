@@ -62,11 +62,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/1) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
-2. ❗️ Opened issue [#2](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/2) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
+1. 🗣 Commented on [#2](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/2) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
+2. ❗️ Closed issue [#1](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/1) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
 3. 🗣 Commented on [#1](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/1) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
-4. ❗️ Opened issue [#1](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/1) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
-5. 💪 Opened PR [#282](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/282) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+4. ❗️ Opened issue [#2](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/2) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
+5. 🗣 Commented on [#1](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/1) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
 <!--END_SECTION:activity-->
 
 </a>
