@@ -62,11 +62,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1905](https://github.com//DroidPlanner/Tower/issues/1905) in [DroidPlanner/Tower](https://github.com//DroidPlanner/Tower)
-2. ❗️ Closed issue [#2](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/2) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
-3. 🗣 Commented on [#2](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/2) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
-4. ❗️ Closed issue [#1](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/1) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
-5. 🗣 Commented on [#1](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/1) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
+1. 💪 Opened PR [#1906](https://github.com//DroidPlanner/Tower/pull/1906) in [DroidPlanner/Tower](https://github.com//DroidPlanner/Tower)
+2. 🗣 Commented on [#1905](https://github.com//DroidPlanner/Tower/issues/1905) in [DroidPlanner/Tower](https://github.com//DroidPlanner/Tower)
+3. ❗️ Closed issue [#2](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/2) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
+4. 🗣 Commented on [#2](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/2) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
+5. ❗️ Closed issue [#1](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/1) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
 <!--END_SECTION:activity-->
 
 </a>
