@@ -62,11 +62,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#379](https://github.com//JessicaLim8/JessicaLim8/issues/379) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-2. ❗️ Opened issue [#965](https://github.com//JonathanGin52/JonathanGin52/issues/965) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-3. ❗️ Opened issue [#4931](https://github.com//timburgan/timburgan/issues/4931) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-4. 💪 Opened PR [#1906](https://github.com//DroidPlanner/Tower/pull/1906) in [DroidPlanner/Tower](https://github.com//DroidPlanner/Tower)
-5. 🗣 Commented on [#1905](https://github.com//DroidPlanner/Tower/issues/1905) in [DroidPlanner/Tower](https://github.com//DroidPlanner/Tower)
+1. 💪 Opened PR [#43855](https://github.com//pytorch/pytorch/pull/43855) in [pytorch/pytorch](https://github.com//pytorch/pytorch)
+2. 💪 Opened PR [#749](https://github.com//dabutvin/Imgbot/pull/749) in [dabutvin/Imgbot](https://github.com//dabutvin/Imgbot)
+3. ❗️ Opened issue [#379](https://github.com//JessicaLim8/JessicaLim8/issues/379) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+4. ❗️ Opened issue [#965](https://github.com//JonathanGin52/JonathanGin52/issues/965) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#4931](https://github.com//timburgan/timburgan/issues/4931) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </a>
