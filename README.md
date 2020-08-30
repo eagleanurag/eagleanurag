@@ -62,11 +62,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1906](https://github.com//DroidPlanner/Tower/pull/1906) in [DroidPlanner/Tower](https://github.com//DroidPlanner/Tower)
-2. 🗣 Commented on [#1905](https://github.com//DroidPlanner/Tower/issues/1905) in [DroidPlanner/Tower](https://github.com//DroidPlanner/Tower)
-3. ❗️ Closed issue [#2](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/2) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
-4. 🗣 Commented on [#2](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/2) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
-5. ❗️ Closed issue [#1](https://github.com//eagleanurag/SpaceShip-Battle-Ground/issues/1) in [eagleanurag/SpaceShip-Battle-Ground](https://github.com//eagleanurag/SpaceShip-Battle-Ground)
+1. ❗️ Opened issue [#379](https://github.com//JessicaLim8/JessicaLim8/issues/379) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+2. ❗️ Opened issue [#965](https://github.com//JonathanGin52/JonathanGin52/issues/965) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#4931](https://github.com//timburgan/timburgan/issues/4931) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+4. 💪 Opened PR [#1906](https://github.com//DroidPlanner/Tower/pull/1906) in [DroidPlanner/Tower](https://github.com//DroidPlanner/Tower)
+5. 🗣 Commented on [#1905](https://github.com//DroidPlanner/Tower/issues/1905) in [DroidPlanner/Tower](https://github.com//DroidPlanner/Tower)
 <!--END_SECTION:activity-->
 
 </a>
