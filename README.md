@@ -62,11 +62,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#92](https://github.com//anmol098/waka-readme-stats/issues/92) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-2. 💪 Opened PR [#8](https://github.com//moribots/spot_mini_mini/pull/8) in [moribots/spot_mini_mini](https://github.com//moribots/spot_mini_mini)
-3. 💪 Opened PR [#43855](https://github.com//pytorch/pytorch/pull/43855) in [pytorch/pytorch](https://github.com//pytorch/pytorch)
-4. 💪 Opened PR [#749](https://github.com//dabutvin/Imgbot/pull/749) in [dabutvin/Imgbot](https://github.com//dabutvin/Imgbot)
-5. ❗️ Opened issue [#379](https://github.com//JessicaLim8/JessicaLim8/issues/379) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+1. 💪 Opened PR [#528](https://github.com//btholt/pull-requests/pull/528) in [btholt/pull-requests](https://github.com//btholt/pull-requests)
+2. ❗️ Opened issue [#92](https://github.com//anmol098/waka-readme-stats/issues/92) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+3. 💪 Opened PR [#8](https://github.com//moribots/spot_mini_mini/pull/8) in [moribots/spot_mini_mini](https://github.com//moribots/spot_mini_mini)
+4. 💪 Opened PR [#43855](https://github.com//pytorch/pytorch/pull/43855) in [pytorch/pytorch](https://github.com//pytorch/pytorch)
+5. 💪 Opened PR [#749](https://github.com//dabutvin/Imgbot/pull/749) in [dabutvin/Imgbot](https://github.com//dabutvin/Imgbot)
 <!--END_SECTION:activity-->
 
 </a>
