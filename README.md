@@ -27,7 +27,16 @@
 </a>
 <a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992" target="_blank">
   <img align="left" alt="eagleanurag's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
-</a> <br /> <br />
+</a> 
+<a href="https://www.instructables.com/member/eagleanurag/" target="_blank">
+  <img align="left" alt="eagleanurag's Instructables" width="30px" src="https://user-images.githubusercontent.com/22770735/91797699-d55e2380-ec40-11ea-9435-c24537e613b0.png" />
+</a> 
+<a href="https://www.robotshop.com/community/user/eagleanurag" target="_blank">
+  <img align="left" alt="eagleanurag's LetsmakeRobots" width="30px" src="(https://user-images.githubusercontent.com/22770735/91797705-d8591400-ec40-11ea-8700-0da1ca8e72b1.jpg" />
+</a> 
+
+
+<br /> <br />
 
 I'm an **Under Grad. Student👨‍🎓 [@UTU](https://uktech.ac.in/)** in India. <br />
 I'm an **Electrical Engineering Student⚡ / Mad Researcher🤿 [@eagleanurag](https://www.eagleanurag.blogspot.com)**  <br />
