@@ -1,4 +1,4 @@
-</div><h1 align="center">eagleanurag</h1></div>
+</div><h1 align="center"><a href="https://eagleanurag.github.io/">eagleanurag</a></h1></div>
 
 
 <img align="right" alt="GIF" src="https://profile-counter.glitch.me/eagleanurag/count.svg" />
@@ -17,7 +17,7 @@
 
 <br/>
 
-<a href="https://twitter.com/eagleanurag" target="_blank">
+<a >
   <img align="left" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/eagleanurag" target="_blank">
