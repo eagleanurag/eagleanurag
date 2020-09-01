@@ -1,12 +1,11 @@
-
-[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/wakatime-stats/badge.svg)]()
-[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg)]()
 </div><h1 align="center">eagleanurag</h1>
 <br />
 <div align="center"></div>
 <img align="right" alt="GIF" src="https://profile-counter.glitch.me/eagleanurag/count.svg" />
 
 
+[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/wakatime-stats/badge.svg)](https://github.com/eagleanurag/eagleanurag/actions)
+[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg)](https://github.com/eagleanurag/eagleanurag/actions)
 ### Hello 👋, I'm [Anurag Pandey](https://eagleanurag.github.io) 
 </a>
 <a href="https://eagleanurag.blogspot.com/" target="_blank">
