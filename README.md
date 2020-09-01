@@ -200,6 +200,6 @@ JavaScript               1 repos             █████░░░░░░�
 
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" />
-<img hieght="80" align="center" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91841125-6fd55b80-ec6f-11ea-93e2-eaeeeab3a512.gif" />
+<img height="100" align="center" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91841125-6fd55b80-ec6f-11ea-93e2-eaeeeab3a512.gif" />
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" />
 </details>
