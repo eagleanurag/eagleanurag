@@ -71,11 +71,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com//eagleanurag/eagleanurag/issues/7) in [eagleanurag/eagleanurag](https://github.com//eagleanurag/eagleanurag)
-2. 💪 Opened PR [#3](https://github.com//cheiio/mazeSolver/pull/3) in [cheiio/mazeSolver](https://github.com//cheiio/mazeSolver)
-3. ❌ Closed PR [#2](https://github.com//cheiio/mazeSolver/pull/2) in [cheiio/mazeSolver](https://github.com//cheiio/mazeSolver)
+1. ❌ Closed PR [#2](https://github.com//cheiio/mazeSolver/pull/2) in [cheiio/mazeSolver](https://github.com//cheiio/mazeSolver)
+2. ❌ Closed PR [#528](https://github.com//btholt/pull-requests/pull/528) in [btholt/pull-requests](https://github.com//btholt/pull-requests)
+3. ❌ Reopened PR [#528](https://github.com//btholt/pull-requests/pull/528) in [btholt/pull-requests](https://github.com//btholt/pull-requests)
 4. ❌ Closed PR [#528](https://github.com//btholt/pull-requests/pull/528) in [btholt/pull-requests](https://github.com//btholt/pull-requests)
-5. ❌ Reopened PR [#528](https://github.com//btholt/pull-requests/pull/528) in [btholt/pull-requests](https://github.com//btholt/pull-requests)
+5. 💪 Opened PR [#2](https://github.com//cheiio/mazeSolver/pull/2) in [cheiio/mazeSolver](https://github.com//cheiio/mazeSolver)
 <!--END_SECTION:activity-->
 
 </a>
@@ -200,6 +200,6 @@ JavaScript               1 repos             █████░░░░░░�
 
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" />
-
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91841125-6fd55b80-ec6f-11ea-93e2-eaeeeab3a512.gif" />
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" />
 </details>
