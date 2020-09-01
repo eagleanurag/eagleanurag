@@ -29,10 +29,10 @@
   <img align="left" alt="eagleanurag's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
 </a> 
 <a href="https://www.instructables.com/member/eagleanurag/" target="_blank">
-  <img align="left" alt="eagleanurag's Instructables" width="30px" src="https://user-images.githubusercontent.com/22770735/91797699-d55e2380-ec40-11ea-9435-c24537e613b0.png" />
+  <img align="left" alt="eagleanurag's Instructables" width="30px" src="https://user-images.githubusercontent.com/22770735/91797357-fa05cb80-ec3f-11ea-80ff-85239441e1a0.png" />
 </a> 
 <a href="https://www.robotshop.com/community/user/eagleanurag" target="_blank">
-  <img align="left" alt="eagleanurag's LetsmakeRobots" width="30px" src="(https://user-images.githubusercontent.com/22770735/91797705-d8591400-ec40-11ea-8700-0da1ca8e72b1.jpg" />
+  <img align="left" alt="eagleanurag's LetsmakeRobots" width="30px" src="https://user-images.githubusercontent.com/22770735/91797699-d55e2380-ec40-11ea-9435-c24537e613b0.png" />
 </a> 
 
 
