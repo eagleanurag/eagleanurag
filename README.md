@@ -9,7 +9,7 @@
 <a href="https://github.com/eagleanurag/eagleanurag/pulls"><img src="https://img.shields.io/github/issues-pr/eagleanurag/eagleanurag" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/eagleanurag/eagleanurag/issues"><img src="https://img.shields.io/github/issues/eagleanurag/eagleanurag" alt="Issues Badge"/></a>
 
-### Hello 👋, I'm [Anurag Pandey](https://eagleanurag.github.io) 
+### Hello 👋, I'm [Anurag Pandey](https://eagleanurag.github.io) & Google me as [eagleanurag](https://www.google.com/search?q=eagleanurag)
 </a>
 <a href="https://eagleanurag.blogspot.com/" target="_blank">
   <img align="right" alt="eagleanurag GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/doggo%20jumps.gif" />
