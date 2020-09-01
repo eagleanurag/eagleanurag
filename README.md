@@ -3,8 +3,9 @@
 
 <img align="right" alt="GIF" src="https://profile-counter.glitch.me/eagleanurag/count.svg" />
 
-### Hello 👋, I'm [eagleanurag](https://eagleanurag.github.io) 
 
+### Hello 👋, I'm [eagleanurag](https://eagleanurag.github.io) 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91840951-25ec7580-ec6f-11ea-8fd2-7e1a8ca10884.gif" />
 <br/>
 
 <a href="https://twitter.com/eagleanurag" target="_blank">
