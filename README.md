@@ -69,7 +69,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
  
 
 ### :zap: Recent Activity
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91840951-25ec7580-ec6f-11ea-8fd2-7e1a8ca10884.gif" />
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#2](https://github.com//cheiio/mazeSolver/pull/2) in [cheiio/mazeSolver](https://github.com//cheiio/mazeSolver)
 2. ❌ Closed PR [#528](https://github.com//btholt/pull-requests/pull/528) in [btholt/pull-requests](https://github.com//btholt/pull-requests)
