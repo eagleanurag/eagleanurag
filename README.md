@@ -1,7 +1,7 @@
 </div><h1 align="center">eagleanurag</h1></div>
 
 
-<img align="right" alt="GIF" src="https://profile-counter.glitch.me/eagleanurag/count.svg"/>
+<img align="right" alt="GIF" src="https://profile-counter.glitch.me/eagleanurag/count.svg" />
 
 
 [![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/wakatime-stats/badge.svg)](https://github.com/eagleanurag/eagleanurag/actions)
