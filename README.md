@@ -62,11 +62,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#528](https://github.com//btholt/pull-requests/pull/528) in [btholt/pull-requests](https://github.com//btholt/pull-requests)
-2. ❗️ Opened issue [#92](https://github.com//anmol098/waka-readme-stats/issues/92) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-3. 💪 Opened PR [#8](https://github.com//moribots/spot_mini_mini/pull/8) in [moribots/spot_mini_mini](https://github.com//moribots/spot_mini_mini)
-4. 💪 Opened PR [#43855](https://github.com//pytorch/pytorch/pull/43855) in [pytorch/pytorch](https://github.com//pytorch/pytorch)
-5. 💪 Opened PR [#749](https://github.com//dabutvin/Imgbot/pull/749) in [dabutvin/Imgbot](https://github.com//dabutvin/Imgbot)
+1. ❗️ Opened issue [#4995](https://github.com//timburgan/timburgan/issues/4995) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+2. ❗️ Opened issue [#971](https://github.com//JonathanGin52/JonathanGin52/issues/971) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#381](https://github.com//JessicaLim8/JessicaLim8/issues/381) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+4. ❗️ Opened issue [#25](https://github.com//sw-yx/sw-yx/issues/25) in [sw-yx/sw-yx](https://github.com//sw-yx/sw-yx)
+5. 🗣 Commented on [#21](https://github.com//sw-yx/sw-yx/issues/21) in [sw-yx/sw-yx](https://github.com//sw-yx/sw-yx)
 <!--END_SECTION:activity-->
 
 </a>
