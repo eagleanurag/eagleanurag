@@ -5,7 +5,11 @@
 
 
 ### Hello 👋, I'm [eagleanurag](https://eagleanurag.github.io) 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91840951-25ec7580-ec6f-11ea-8fd2-7e1a8ca10884.gif" />
+</a>
+<a href="https://eagleanurag.blogspot.com/" target="_blank">
+  <img align="right" alt="eagleanurag GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/doggo%20jumps.gif" />
+</a>
+
 <br/>
 
 <a href="https://twitter.com/eagleanurag" target="_blank">
@@ -45,10 +49,6 @@ I love to create real world projects and playing with them.  📢 [@projects](ht
 Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Automobile. <br />
 
 
-</a>
-<a href="https://eagleanurag.blogspot.com/" target="_blank">
-  <img align="right" alt="eagleanurag GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/doggo%20jumps.gif" />
-</a>
 
   
 **Miscellaneous:**
