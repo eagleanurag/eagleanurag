@@ -1,4 +1,4 @@
-</div><h1 align="center"><a href="https://eagleanurag.github.io/">eagleanurag</a></h1></div>
+</div><h1 align="center"><a href="https://eagleanurag.github.io/" target="_blank">eagleanurag</a></h1></div>
 
 
 <img align="right" alt="GIF" src="https://profile-counter.glitch.me/eagleanurag/count.svg" />
