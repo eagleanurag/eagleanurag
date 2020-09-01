@@ -6,6 +6,9 @@
 
 [![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/wakatime-stats/badge.svg)](https://github.com/eagleanurag/eagleanurag/actions)
 [![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg)](https://github.com/eagleanurag/eagleanurag/actions)
+<a href="https://github.com/eagleanurag/eagleanurag/pulls"><img src="https://img.shields.io/github/issues-pr/eagleanurag/eagleanurag" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/eagleanurag/eagleanurag/issues"><img src="https://img.shields.io/github/issues/eagleanurag/eagleanurag" alt="Issues Badge"/></a>
+
 ### Hello 👋, I'm [Anurag Pandey](https://eagleanurag.github.io) 
 </a>
 <a href="https://eagleanurag.blogspot.com/" target="_blank">
