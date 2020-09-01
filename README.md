@@ -8,31 +8,31 @@
 <br/>
 
 <a href="https://twitter.com/eagleanurag" target="_blank">
-  <img align="left" alt="eagleanurag | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img align="left" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/eagleanurag" target="_blank">
-  <img align="left" alt="eagleanurag's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://www.facebook.com/eagleanurag" target="_blank">
-  <img align="left" alt="eagleanurag's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.instagram.com/eagleanurag" target="_blank">
-  <img align="left" alt="eagleanurag's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA" target="_blank">
-  <img align="left" alt="eagleanurag's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+  <img align="left" alt="Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 <a href="https://www.codewars.com/users/eagleanurag" target="_blank">
-  <img align="left" alt="eagleanurag's Codewars" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
+  <img align="left" alt="Codewars" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
 </a>
 <a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992" target="_blank">
-  <img align="left" alt="eagleanurag's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
+  <img align="left" alt="Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
 </a> 
 <a href="https://www.instructables.com/member/eagleanurag/" target="_blank">
-  <img align="left" alt="eagleanurag's Instructables" width="33px" src="https://user-images.githubusercontent.com/22770735/91797357-fa05cb80-ec3f-11ea-80ff-85239441e1a0.png" />
+  <img align="left" alt="Instructables" width="33px" src="https://user-images.githubusercontent.com/22770735/91797357-fa05cb80-ec3f-11ea-80ff-85239441e1a0.png" />
 </a> 
 <a href="https://www.robotshop.com/community/user/eagleanurag" target="_blank">
-  <img align="left" alt="eagleanurag's LetsmakeRobots" width="33px" src="https://user-images.githubusercontent.com/22770735/91797699-d55e2380-ec40-11ea-9435-c24537e613b0.png" />
+  <img align="left" alt="LetsmakeRobots" width="33px" src="https://user-images.githubusercontent.com/22770735/91797699-d55e2380-ec40-11ea-9435-c24537e613b0.png" />
 </a> 
 
 
@@ -46,7 +46,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 
 </a>
 <a href="https://eagleanurag.blogspot.com/" target="_blank">
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/doggo%20jumps.gif" />
+  <img align="right" alt="eagleanurag GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/doggo%20jumps.gif" />
 </a>
 
   
@@ -180,7 +180,7 @@ JavaScript               1 repos             █████░░░░░░�
 </p>
 
 
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/eaglecmd.gif" />
+  <img align="center" alt="eagleanurag GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/eaglecmd.gif" />
 
 
 
