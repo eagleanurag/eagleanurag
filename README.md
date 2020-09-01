@@ -50,7 +50,6 @@ I love to create real world projects and playing with them.  📢 [@projects](ht
 Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Automobile. <br />
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91840951-25ec7580-ec6f-11ea-8fd2-7e1a8ca10884.gif" />
   
 **Miscellaneous:**
 
@@ -68,7 +67,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 - 📫 How to reach me: <helpmeinproject@gmail.com>;
 - 📝[Resume](https://github.com/eagleanurag/eagleanurag.github.io/raw/master/res/resume_jan20_eng.pdf)
 
- 
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91840951-25ec7580-ec6f-11ea-8fd2-7e1a8ca10884.gif" />
 
 ### :zap: Recent Activity
 
