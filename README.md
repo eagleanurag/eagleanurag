@@ -76,11 +76,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//eagleanuragLineFollower/Maze-solver-using-Arduino/issues/1) in [eagleanuragLineFollower/Maze-solver-using-Arduino](https://github.com//eagleanuragLineFollower/Maze-solver-using-Arduino)
-2. ❗️ Opened issue [#5347](https://github.com//timburgan/timburgan/issues/5347) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-3. ❗️ Opened issue [#1040](https://github.com//JonathanGin52/JonathanGin52/issues/1040) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-4. ❗️ Opened issue [#397](https://github.com//JessicaLim8/JessicaLim8/issues/397) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-5. 🗣 Commented on [#279](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/279) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+1. 💪 Opened PR [#141](https://github.com//smaranjitghose/doc2pen/pull/141) in [smaranjitghose/doc2pen](https://github.com//smaranjitghose/doc2pen)
+2. ❗️ Opened issue [#1](https://github.com//eagleanuragLineFollower/Maze-solver-using-Arduino/issues/1) in [eagleanuragLineFollower/Maze-solver-using-Arduino](https://github.com//eagleanuragLineFollower/Maze-solver-using-Arduino)
+3. ❗️ Opened issue [#5347](https://github.com//timburgan/timburgan/issues/5347) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+4. ❗️ Opened issue [#1040](https://github.com//JonathanGin52/JonathanGin52/issues/1040) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#397](https://github.com//JessicaLim8/JessicaLim8/issues/397) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 </a>
