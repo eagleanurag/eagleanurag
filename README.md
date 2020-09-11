@@ -76,11 +76,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#141](https://github.com//smaranjitghose/doc2pen/pull/141) in [smaranjitghose/doc2pen](https://github.com//smaranjitghose/doc2pen)
-2. ❗️ Opened issue [#1](https://github.com//eagleanuragLineFollower/Maze-solver-using-Arduino/issues/1) in [eagleanuragLineFollower/Maze-solver-using-Arduino](https://github.com//eagleanuragLineFollower/Maze-solver-using-Arduino)
-3. ❗️ Opened issue [#5347](https://github.com//timburgan/timburgan/issues/5347) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-4. ❗️ Opened issue [#1040](https://github.com//JonathanGin52/JonathanGin52/issues/1040) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#397](https://github.com//JessicaLim8/JessicaLim8/issues/397) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+1. 💪 Opened PR [#1](https://github.com//EmbedJournal/embedjournal/pull/1) in [EmbedJournal/embedjournal](https://github.com//EmbedJournal/embedjournal)
+2. 🗣 Commented on [#8](https://github.com//eagleanurag/eagleanurag/issues/8) in [eagleanurag/eagleanurag](https://github.com//eagleanurag/eagleanurag)
+3. 💪 Opened PR [#33](https://github.com//MajicDesigns/MD_MAX72XX/pull/33) in [MajicDesigns/MD_MAX72XX](https://github.com//MajicDesigns/MD_MAX72XX)
+4. 🗣 Commented on [#8](https://github.com//eagleanurag/eagleanurag/issues/8) in [eagleanurag/eagleanurag](https://github.com//eagleanurag/eagleanurag)
+5. 💪 Opened PR [#141](https://github.com//smaranjitghose/doc2pen/pull/141) in [smaranjitghose/doc2pen](https://github.com//smaranjitghose/doc2pen)
 <!--END_SECTION:activity-->
 
 </a>
