@@ -76,11 +76,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//EmbedJournal/embedjournal/pull/1) in [EmbedJournal/embedjournal](https://github.com//EmbedJournal/embedjournal)
+1. 💪 Opened PR [#35](https://github.com//techequilla/community_app_boilerplate/pull/35) in [techequilla/community_app_boilerplate](https://github.com//techequilla/community_app_boilerplate)
 2. 🗣 Commented on [#8](https://github.com//eagleanurag/eagleanurag/issues/8) in [eagleanurag/eagleanurag](https://github.com//eagleanurag/eagleanurag)
-3. 💪 Opened PR [#33](https://github.com//MajicDesigns/MD_MAX72XX/pull/33) in [MajicDesigns/MD_MAX72XX](https://github.com//MajicDesigns/MD_MAX72XX)
-4. 🗣 Commented on [#8](https://github.com//eagleanurag/eagleanurag/issues/8) in [eagleanurag/eagleanurag](https://github.com//eagleanurag/eagleanurag)
-5. 💪 Opened PR [#141](https://github.com//smaranjitghose/doc2pen/pull/141) in [smaranjitghose/doc2pen](https://github.com//smaranjitghose/doc2pen)
+3. 💪 Opened PR [#143](https://github.com//smaranjitghose/doc2pen/pull/143) in [smaranjitghose/doc2pen](https://github.com//smaranjitghose/doc2pen)
+4. 💪 Opened PR [#2](https://github.com//EmbedJournal/glem/pull/2) in [EmbedJournal/glem](https://github.com//EmbedJournal/glem)
+5. 🗣 Commented on [#8](https://github.com//eagleanurag/eagleanurag/issues/8) in [eagleanurag/eagleanurag](https://github.com//eagleanurag/eagleanurag)
 <!--END_SECTION:activity-->
 
 </a>
