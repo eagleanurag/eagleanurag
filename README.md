@@ -76,11 +76,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//fvukojevic/image_recognition/pull/1) in [fvukojevic/image_recognition](https://github.com//fvukojevic/image_recognition)
-2. 💪 Opened PR [#1](https://github.com//BaofengZan/DBNet-TensorRT/pull/1) in [BaofengZan/DBNet-TensorRT](https://github.com//BaofengZan/DBNet-TensorRT)
-3. 🗣 Commented on [#8](https://github.com//eagleanurag/eagleanurag/issues/8) in [eagleanurag/eagleanurag](https://github.com//eagleanurag/eagleanurag)
-4. 🗣 Commented on [#33](https://github.com//MajicDesigns/MD_MAX72XX/issues/33) in [MajicDesigns/MD_MAX72XX](https://github.com//MajicDesigns/MD_MAX72XX)
-5. 💪 Opened PR [#35](https://github.com//techequilla/community_app_boilerplate/pull/35) in [techequilla/community_app_boilerplate](https://github.com//techequilla/community_app_boilerplate)
+1. 💪 Opened PR [#12](https://github.com//fransallen/thedev.id/pull/12) in [fransallen/thedev.id](https://github.com//fransallen/thedev.id)
+2. 💪 Opened PR [#1](https://github.com//fvukojevic/image_recognition/pull/1) in [fvukojevic/image_recognition](https://github.com//fvukojevic/image_recognition)
+3. 💪 Opened PR [#1](https://github.com//BaofengZan/DBNet-TensorRT/pull/1) in [BaofengZan/DBNet-TensorRT](https://github.com//BaofengZan/DBNet-TensorRT)
+4. 🗣 Commented on [#8](https://github.com//eagleanurag/eagleanurag/issues/8) in [eagleanurag/eagleanurag](https://github.com//eagleanurag/eagleanurag)
+5. 🗣 Commented on [#33](https://github.com//MajicDesigns/MD_MAX72XX/issues/33) in [MajicDesigns/MD_MAX72XX](https://github.com//MajicDesigns/MD_MAX72XX)
 <!--END_SECTION:activity-->
 
 </a>
