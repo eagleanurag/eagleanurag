@@ -76,11 +76,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com//fransallen/thedev.id/issues/12) in [fransallen/thedev.id](https://github.com//fransallen/thedev.id)
-2. 💪 Opened PR [#12](https://github.com//fransallen/thedev.id/pull/12) in [fransallen/thedev.id](https://github.com//fransallen/thedev.id)
-3. 💪 Opened PR [#1](https://github.com//fvukojevic/image_recognition/pull/1) in [fvukojevic/image_recognition](https://github.com//fvukojevic/image_recognition)
-4. 💪 Opened PR [#1](https://github.com//BaofengZan/DBNet-TensorRT/pull/1) in [BaofengZan/DBNet-TensorRT](https://github.com//BaofengZan/DBNet-TensorRT)
-5. 🗣 Commented on [#8](https://github.com//eagleanurag/eagleanurag/issues/8) in [eagleanurag/eagleanurag](https://github.com//eagleanurag/eagleanurag)
+1. ❌ Closed PR [#749](https://github.com//dabutvin/Imgbot/pull/749) in [dabutvin/Imgbot](https://github.com//dabutvin/Imgbot)
+2. 🗣 Commented on [#12](https://github.com//fransallen/thedev.id/issues/12) in [fransallen/thedev.id](https://github.com//fransallen/thedev.id)
+3. 💪 Opened PR [#12](https://github.com//fransallen/thedev.id/pull/12) in [fransallen/thedev.id](https://github.com//fransallen/thedev.id)
+4. 💪 Opened PR [#1](https://github.com//fvukojevic/image_recognition/pull/1) in [fvukojevic/image_recognition](https://github.com//fvukojevic/image_recognition)
+5. 💪 Opened PR [#1](https://github.com//BaofengZan/DBNet-TensorRT/pull/1) in [BaofengZan/DBNet-TensorRT](https://github.com//BaofengZan/DBNet-TensorRT)
 <!--END_SECTION:activity-->
 
 </a>
