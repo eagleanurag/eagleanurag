@@ -95,13 +95,13 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 694 Contributions in the Year 2020
+> 🏆 701 Contributions in the Year 2020
  > 
 > 📦 96.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 49 Public Repositories
+> 📜 50 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
