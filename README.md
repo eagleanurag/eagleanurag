@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/intel-isl/OpenBot/issues/80) in [intel-isl/OpenBot](https://github.com/intel-isl/OpenBot)
-2. ❌ Closed PR [#2](https://github.com/eagleanurag/OpenBot/pull/2) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
-3. ❗️ Opened issue [#447](https://github.com/JessicaLim8/JessicaLim8/issues/447) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-4. ❗️ Opened issue [#6513](https://github.com/timburgan/timburgan/issues/6513) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. ❗️ Opened issue [#1224](https://github.com/JonathanGin52/JonathanGin52/issues/1224) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. ❌ Closed PR [#80](https://github.com/intel-isl/OpenBot/pull/80) in [intel-isl/OpenBot](https://github.com/intel-isl/OpenBot)
+2. 🗣 Commented on [#80](https://github.com/intel-isl/OpenBot/issues/80) in [intel-isl/OpenBot](https://github.com/intel-isl/OpenBot)
+3. ❌ Closed PR [#2](https://github.com/eagleanurag/OpenBot/pull/2) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
+4. ❗️ Opened issue [#447](https://github.com/JessicaLim8/JessicaLim8/issues/447) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+5. ❗️ Opened issue [#6513](https://github.com/timburgan/timburgan/issues/6513) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </a>
