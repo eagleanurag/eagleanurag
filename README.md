@@ -95,13 +95,13 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 629 Contributions in the Year 2020
+> 🏆 644 Contributions in the Year 2020
  > 
-> 📦 12.1 kB Used in Github's Storage 
+> 📦 12.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 50 Public Repositories
+> 📜 52 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
@@ -150,9 +150,9 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      2 repos             ████████████░░░░░░░░░░░░░   50.0% 
-HTML                     1 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               1 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+C++                      2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+JavaScript               1 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
 
