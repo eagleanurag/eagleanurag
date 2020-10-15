@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/eagleanurag/github-slideshow/issues/1) in [eagleanurag/github-slideshow](https://github.com/eagleanurag/github-slideshow)
-2. ❗️ Opened issue [#1249](https://github.com/JonathanGin52/JonathanGin52/issues/1249) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-3. ❗️ Opened issue [#452](https://github.com/JessicaLim8/JessicaLim8/issues/452) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-4. ❗️ Opened issue [#6686](https://github.com/timburgan/timburgan/issues/6686) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. 🎉 Merged PR [#1](https://github.com/eagleanurag/eagleanuragtest.github.io/pull/1) in [eagleanurag/eagleanuragtest.github.io](https://github.com/eagleanurag/eagleanuragtest.github.io)
+1. 🎉 Merged PR [#3](https://github.com/eagleanurag/github-slideshow/pull/3) in [eagleanurag/github-slideshow](https://github.com/eagleanurag/github-slideshow)
+2. 💪 Opened PR [#3](https://github.com/eagleanurag/github-slideshow/pull/3) in [eagleanurag/github-slideshow](https://github.com/eagleanurag/github-slideshow)
+3. ❗️ Closed issue [#1](https://github.com/eagleanurag/github-slideshow/issues/1) in [eagleanurag/github-slideshow](https://github.com/eagleanurag/github-slideshow)
+4. ❗️ Opened issue [#1249](https://github.com/JonathanGin52/JonathanGin52/issues/1249) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#452](https://github.com/JessicaLim8/JessicaLim8/issues/452) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 </a>
