@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1355](https://github.com/JonathanGin52/JonathanGin52/issues/1355) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#481](https://github.com/JessicaLim8/JessicaLim8/issues/481) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-3. ❗️ Opened issue [#8138](https://github.com/timburgan/timburgan/issues/8138) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗️ Opened issue [#7666](https://github.com/timburgan/timburgan/issues/7666) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. ❗️ Opened issue [#474](https://github.com/JessicaLim8/JessicaLim8/issues/474) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+1. ❗️ Opened issue [#31](https://github.com/sw-yx/sw-yx/issues/31) in [sw-yx/sw-yx](https://github.com/sw-yx/sw-yx)
+2. ❗️ Opened issue [#8436](https://github.com/timburgan/timburgan/issues/8436) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+3. ❗️ Opened issue [#483](https://github.com/JessicaLim8/JessicaLim8/issues/483) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+4. ❗️ Opened issue [#1387](https://github.com/JonathanGin52/JonathanGin52/issues/1387) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#1355](https://github.com/JonathanGin52/JonathanGin52/issues/1355) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 </a>
