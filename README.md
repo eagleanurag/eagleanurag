@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8518](https://github.com/timburgan/timburgan/issues/8518) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#1400](https://github.com/JonathanGin52/JonathanGin52/issues/1400) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-3. ❗️ Opened issue [#485](https://github.com/JessicaLim8/JessicaLim8/issues/485) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-4. ❗️ Opened issue [#31](https://github.com/sw-yx/sw-yx/issues/31) in [sw-yx/sw-yx](https://github.com/sw-yx/sw-yx)
-5. ❗️ Opened issue [#8436](https://github.com/timburgan/timburgan/issues/8436) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. ❗️ Opened issue [#1](https://github.com/jaysanpat/Design-of-resistor-value-for-a-switched-resistor-passive-balancing-system-as-well-as-enhancing-a-pow/issues/1) in [jaysanpat/Design-of-resistor-value-for-a-switched-resistor-passive-balancing-system-as-well-as-enhancing-a-pow](https://github.com/jaysanpat/Design-of-resistor-value-for-a-switched-resistor-passive-balancing-system-as-well-as-enhancing-a-pow)
+2. ❗️ Opened issue [#8518](https://github.com/timburgan/timburgan/issues/8518) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+3. ❗️ Opened issue [#1400](https://github.com/JonathanGin52/JonathanGin52/issues/1400) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+4. ❗️ Opened issue [#485](https://github.com/JessicaLim8/JessicaLim8/issues/485) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+5. ❗️ Opened issue [#31](https://github.com/sw-yx/sw-yx/issues/31) in [sw-yx/sw-yx](https://github.com/sw-yx/sw-yx)
 <!--END_SECTION:activity-->
 
 </a>
