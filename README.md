@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1401](https://github.com/JonathanGin52/JonathanGin52/issues/1401) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#8644](https://github.com/timburgan/timburgan/issues/8644) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#486](https://github.com/JessicaLim8/JessicaLim8/issues/486) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-4. ❗️ Opened issue [#2](https://github.com/KevinPatel04/Coursera-Specialization-On-Robotics-Assignment-Solution/issues/2) in [KevinPatel04/Coursera-Specialization-On-Robotics-Assignment-Solution](https://github.com/KevinPatel04/Coursera-Specialization-On-Robotics-Assignment-Solution)
-5. ❗️ Opened issue [#1](https://github.com/jaysanpat/Design-of-resistor-value-for-a-switched-resistor-passive-balancing-system-as-well-as-enhancing-a-pow/issues/1) in [jaysanpat/Design-of-resistor-value-for-a-switched-resistor-passive-balancing-system-as-well-as-enhancing-a-pow](https://github.com/jaysanpat/Design-of-resistor-value-for-a-switched-resistor-passive-balancing-system-as-well-as-enhancing-a-pow)
+1. ❗️ Opened issue [#8695](https://github.com/timburgan/timburgan/issues/8695) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#1402](https://github.com/JonathanGin52/JonathanGin52/issues/1402) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#488](https://github.com/JessicaLim8/JessicaLim8/issues/488) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+4. ❗️ Opened issue [#1401](https://github.com/JonathanGin52/JonathanGin52/issues/1401) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#8644](https://github.com/timburgan/timburgan/issues/8644) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </a>
