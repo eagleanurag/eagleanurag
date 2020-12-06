@@ -101,9 +101,9 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
  > 
 > 💼 Opted to Hire
  > 
-> 📜 55 Public Repositories
+> 📜 55 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+55 Private Repository 
  > 
 **I'm an Early 🐤** 
 
