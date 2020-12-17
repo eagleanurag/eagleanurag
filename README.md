@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9577](https://github.com/timburgan/timburgan/issues/9577) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#520](https://github.com/JessicaLim8/JessicaLim8/issues/520) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-3. ❗️ Opened issue [#1462](https://github.com/JonathanGin52/JonathanGin52/issues/1462) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-4. ❗️ Opened issue [#518](https://github.com/JessicaLim8/JessicaLim8/issues/518) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-5. ❗️ Opened issue [#517](https://github.com/JessicaLim8/JessicaLim8/issues/517) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+1. ❗️ Closed issue [#1](https://github.com/SeppPenner/PdfPasswordRemover/issues/1) in [SeppPenner/PdfPasswordRemover](https://github.com/SeppPenner/PdfPasswordRemover)
+2. ❗️ Opened issue [#9577](https://github.com/timburgan/timburgan/issues/9577) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+3. ❗️ Opened issue [#520](https://github.com/JessicaLim8/JessicaLim8/issues/520) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+4. ❗️ Opened issue [#1462](https://github.com/JonathanGin52/JonathanGin52/issues/1462) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#518](https://github.com/JessicaLim8/JessicaLim8/issues/518) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 </a>
