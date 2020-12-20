@@ -97,7 +97,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 
 > 🏆 811 Contributions in the Year 2020
  > 
-> 📦 61.0 kB Used in Github's Storage 
+> 📦 60.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
