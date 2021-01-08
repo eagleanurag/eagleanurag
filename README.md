@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/damiles/basicOCR/pull/1) in [damiles/basicOCR](https://github.com/damiles/basicOCR)
-2. ❗️ Opened issue [#10433](https://github.com/timburgan/timburgan/issues/10433) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#538](https://github.com/JessicaLim8/JessicaLim8/issues/538) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-4. ❗️ Opened issue [#10432](https://github.com/timburgan/timburgan/issues/10432) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. ❗️ Opened issue [#9694](https://github.com/timburgan/timburgan/issues/9694) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. ❗️ Opened issue [#1](https://github.com/eagleanurag/TSF-Internship/issues/1) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
+2. 💪 Opened PR [#1](https://github.com/damiles/basicOCR/pull/1) in [damiles/basicOCR](https://github.com/damiles/basicOCR)
+3. ❗️ Opened issue [#10433](https://github.com/timburgan/timburgan/issues/10433) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. ❗️ Opened issue [#538](https://github.com/JessicaLim8/JessicaLim8/issues/538) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+5. ❗️ Opened issue [#10432](https://github.com/timburgan/timburgan/issues/10432) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </a>
