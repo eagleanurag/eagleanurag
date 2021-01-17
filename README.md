@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/eagleanurag/TSF-Internship/issues/1) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
-2. ❗️ Opened issue [#1](https://github.com/eagleanurag/TSF-Internship/issues/1) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
-3. 💪 Opened PR [#1](https://github.com/damiles/basicOCR/pull/1) in [damiles/basicOCR](https://github.com/damiles/basicOCR)
-4. ❗️ Opened issue [#10433](https://github.com/timburgan/timburgan/issues/10433) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. ❗️ Opened issue [#538](https://github.com/JessicaLim8/JessicaLim8/issues/538) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+1. ❗️ Opened issue [#10820](https://github.com/timburgan/timburgan/issues/10820) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#548](https://github.com/JessicaLim8/JessicaLim8/issues/548) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+3. ❗️ Closed issue [#1](https://github.com/eagleanurag/TSF-Internship/issues/1) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
+4. ❗️ Opened issue [#1](https://github.com/eagleanurag/TSF-Internship/issues/1) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
+5. 💪 Opened PR [#1](https://github.com/damiles/basicOCR/pull/1) in [damiles/basicOCR](https://github.com/damiles/basicOCR)
 <!--END_SECTION:activity-->
 
 </a>
