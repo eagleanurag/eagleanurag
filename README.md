@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/eagleanurag/OpenBot/pull/3) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
-2. 🗣 Commented on [#1](https://github.com/eagleanurag/TSF-Internship/issues/1) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
-3. 🗣 Commented on [#1](https://github.com/eagleanurag/TSF-Internship/issues/1) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
-4. ❗️ Opened issue [#553](https://github.com/JessicaLim8/JessicaLim8/issues/553) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-5. ❗️ Opened issue [#10873](https://github.com/timburgan/timburgan/issues/10873) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 💪 Opened PR [#4](https://github.com/eagleanurag/OpenBot/pull/4) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
+2. ❌ Closed PR [#3](https://github.com/eagleanurag/OpenBot/pull/3) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
+3. 💪 Opened PR [#3](https://github.com/eagleanurag/OpenBot/pull/3) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
+4. 🗣 Commented on [#1](https://github.com/eagleanurag/TSF-Internship/issues/1) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
+5. 🗣 Commented on [#1](https://github.com/eagleanurag/TSF-Internship/issues/1) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
 <!--END_SECTION:activity-->
 
 </a>
