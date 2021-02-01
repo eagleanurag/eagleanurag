@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#153](https://github.com/intel-isl/OpenBot/pull/153) in [intel-isl/OpenBot](https://github.com/intel-isl/OpenBot)
-2. 🎉 Merged PR [#5](https://github.com/eagleanurag/OpenBot/pull/5) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
-3. 🎉 Merged PR [#2](https://github.com/eagleanurag/OpenBot/pull/2) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
-4. 💪 Opened PR [#5](https://github.com/eagleanurag/OpenBot/pull/5) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
-5. ❌ Closed PR [#4](https://github.com/eagleanurag/OpenBot/pull/4) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
+1. 💪 Opened PR [#7](https://github.com/eagleanurag/OpenBot/pull/7) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
+2. 🎉 Merged PR [#6](https://github.com/eagleanurag/OpenBot/pull/6) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
+3. 💪 Opened PR [#6](https://github.com/eagleanurag/OpenBot/pull/6) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
+4. 💪 Opened PR [#153](https://github.com/intel-isl/OpenBot/pull/153) in [intel-isl/OpenBot](https://github.com/intel-isl/OpenBot)
+5. 🎉 Merged PR [#5](https://github.com/eagleanurag/OpenBot/pull/5) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
 <!--END_SECTION:activity-->
 
 </a>
