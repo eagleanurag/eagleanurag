@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11175](https://github.com/timburgan/timburgan/issues/11175) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#1682](https://github.com/JonathanGin52/JonathanGin52/issues/1682) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-3. ❗️ Opened issue [#561](https://github.com/JessicaLim8/JessicaLim8/issues/561) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-4. 💪 Opened PR [#7](https://github.com/eagleanurag/OpenBot/pull/7) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
-5. 🎉 Merged PR [#6](https://github.com/eagleanurag/OpenBot/pull/6) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
+1. 🗣 Commented on [#279](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/279) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. ❗️ Opened issue [#11175](https://github.com/timburgan/timburgan/issues/11175) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+3. ❗️ Opened issue [#1682](https://github.com/JonathanGin52/JonathanGin52/issues/1682) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+4. ❗️ Opened issue [#561](https://github.com/JessicaLim8/JessicaLim8/issues/561) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+5. 💪 Opened PR [#7](https://github.com/eagleanurag/OpenBot/pull/7) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
 <!--END_SECTION:activity-->
 
 </a>
