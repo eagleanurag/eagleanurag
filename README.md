@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/eagleanurag/TSF-Internship/issues/2) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
-2. ❗️ Opened issue [#2](https://github.com/eagleanurag/TSF-Internship/issues/2) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
-3. ❗️ Opened issue [#21](https://github.com/javagarm/JavagarM/issues/21) in [javagarm/JavagarM](https://github.com/javagarm/JavagarM)
-4. ❗️ Opened issue [#624](https://github.com/JessicaLim8/JessicaLim8/issues/624) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-5. ❗️ Opened issue [#1995](https://github.com/JonathanGin52/JonathanGin52/issues/1995) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. ❗️ Closed issue [#2](https://github.com/eagleanurag/TSF-Internship/issues/2) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
+2. ❗️ Closed issue [#1](https://github.com/eagleanurag/eagleanurag.github.io/issues/1) in [eagleanurag/eagleanurag.github.io](https://github.com/eagleanurag/eagleanurag.github.io)
+3. 🗣 Commented on [#1](https://github.com/eagleanurag/eagleanurag.github.io/issues/1) in [eagleanurag/eagleanurag.github.io](https://github.com/eagleanurag/eagleanurag.github.io)
+4. ❗️ Opened issue [#1](https://github.com/eagleanurag/eagleanurag.github.io/issues/1) in [eagleanurag/eagleanurag.github.io](https://github.com/eagleanurag/eagleanurag.github.io)
+5. 🗣 Commented on [#2](https://github.com/eagleanurag/TSF-Internship/issues/2) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
 <!--END_SECTION:activity-->
 
 </a>
