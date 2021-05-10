@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/eagleanurag/darknet/pull/1) in [eagleanurag/darknet](https://github.com/eagleanurag/darknet)
-2. ❗️ Closed issue [#2](https://github.com/eagleanurag/TSF-Internship/issues/2) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
-3. ❗️ Closed issue [#1](https://github.com/eagleanurag/eagleanurag.github.io/issues/1) in [eagleanurag/eagleanurag.github.io](https://github.com/eagleanurag/eagleanurag.github.io)
-4. 🗣 Commented on [#1](https://github.com/eagleanurag/eagleanurag.github.io/issues/1) in [eagleanurag/eagleanurag.github.io](https://github.com/eagleanurag/eagleanurag.github.io)
-5. ❗️ Opened issue [#1](https://github.com/eagleanurag/eagleanurag.github.io/issues/1) in [eagleanurag/eagleanurag.github.io](https://github.com/eagleanurag/eagleanurag.github.io)
+1. ❌ Closed PR [#7](https://github.com/eagleanurag/OpenBot/pull/7) in [eagleanurag/OpenBot](https://github.com/eagleanurag/OpenBot)
+2. ❌ Closed PR [#1](https://github.com/eagleanurag/darknet/pull/1) in [eagleanurag/darknet](https://github.com/eagleanurag/darknet)
+3. ❗️ Closed issue [#2](https://github.com/eagleanurag/TSF-Internship/issues/2) in [eagleanurag/TSF-Internship](https://github.com/eagleanurag/TSF-Internship)
+4. ❗️ Closed issue [#1](https://github.com/eagleanurag/eagleanurag.github.io/issues/1) in [eagleanurag/eagleanurag.github.io](https://github.com/eagleanurag/eagleanurag.github.io)
+5. 🗣 Commented on [#1](https://github.com/eagleanurag/eagleanurag.github.io/issues/1) in [eagleanurag/eagleanurag.github.io](https://github.com/eagleanurag/eagleanurag.github.io)
 <!--END_SECTION:activity-->
 
 </a>
