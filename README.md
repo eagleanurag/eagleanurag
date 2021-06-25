@@ -80,11 +80,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#978](https://github.com/smaranjitghose/doc2pen/issues/978) in [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
-2. 🗣 Commented on [#977](https://github.com/smaranjitghose/doc2pen/issues/977) in [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
-3. 💪 Opened PR [#978](https://github.com/smaranjitghose/doc2pen/pull/978) in [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
-4. ❗️ Opened issue [#977](https://github.com/smaranjitghose/doc2pen/issues/977) in [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
-5. 💪 Opened PR [#9918](https://github.com/education/GitHubGraduation-2021/pull/9918) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+1. 💪 Opened PR [#1](https://github.com/RobTillaart/SGP30/pull/1) in [RobTillaart/SGP30](https://github.com/RobTillaart/SGP30)
+2. 🗣 Commented on [#978](https://github.com/smaranjitghose/doc2pen/issues/978) in [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
+3. 🗣 Commented on [#977](https://github.com/smaranjitghose/doc2pen/issues/977) in [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
+4. 💪 Opened PR [#978](https://github.com/smaranjitghose/doc2pen/pull/978) in [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
+5. ❗️ Opened issue [#977](https://github.com/smaranjitghose/doc2pen/issues/977) in [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
 <!--END_SECTION:activity-->
 
 </a>
