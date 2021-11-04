@@ -49,7 +49,7 @@
 <br /> <br />
 
 I'm an **Under Grad. Student👨‍🎓 [@UTU](https://uktech.ac.in/)** in India. <br />
-I'm an **Electrical Engineering Student⚡ / Mad Researcher🤿 [@eagleanurag](https://www.eagleanurag.blogspot.com)**  <br />
+I'm an **Electrical Engineering Student⚡ / Researcher🤿 [@eagleanurag](https://www.eagleanurag.blogspot.com)**  <br />
 I love to create real world projects and playing with them.  📢 [@projects](https://instagram.com/eagleanurag)  <br />
 Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Automobile. <br />
 
