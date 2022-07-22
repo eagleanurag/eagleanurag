@@ -17,26 +17,24 @@
 
 <br/>
 
-<a >
-  <img align="left" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/eagleanurag" target="_blank">
-  <img align="left" alt="LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://www.facebook.com/eagleanurag" target="_blank">
-  <img align="left" alt="Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/600px-Facebook_logo_%28square%29.png" />
 </a>
 <a href="https://www.instagram.com/eagleanurag" target="_blank">
-  <img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" />
 </a>
 <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA" target="_blank">
-  <img align="left" alt="Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+  <img align="left" alt="Spotify" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/512px-Spotify_icon.svg.png" />
 </a>
 <a href="https://www.codewars.com/users/eagleanurag" target="_blank">
-  <img align="left" alt="Codewars" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
+  <img align="left" alt="Codewars" width="30px" src="https://assets-global.website-files.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" />
 </a>
 <a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992" target="_blank">
-  <img align="left" alt="Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
+  <img align="left" alt="Codingames" width="30px" src="https://iconape.com/wp-content/png_logo_vector/codingame.png" />
 </a> 
 <a href="https://www.instructables.com/member/eagleanurag/" target="_blank">
   <img align="left" alt="Instructables" width="33px" src="https://user-images.githubusercontent.com/22770735/91797357-fa05cb80-ec3f-11ea-80ff-85239441e1a0.png" />
@@ -44,6 +42,9 @@
 <a href="https://www.robotshop.com/community/user/eagleanurag" target="_blank">
   <img align="left" alt="LetsmakeRobots" width="33px" src="https://user-images.githubusercontent.com/22770735/91797699-d55e2380-ec40-11ea-9435-c24537e613b0.png" />
 </a> 
+<a >
+  <img align="left" alt="Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20211104142029" />
+</a>
 
 
 <br /> <br />
@@ -166,25 +167,10 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
-**I Love Robots,** <code><img height="35" src="https://image.flaticon.com/icons/png/512/35/35486.png"></code> **and they too love me!**
+**I Love Robots,** <code><img height="35" src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-LG.gif"></code> **and they too love me!**
 
 
-**Areas On Which I Work:**  
 
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1596/1596639.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/944/944179.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2235/2235061.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3003/3003696.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2885/2885535.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3056/3056301.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3118/3118399.svg"></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
-  
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/eagleanurag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
