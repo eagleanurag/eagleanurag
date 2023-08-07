@@ -73,7 +73,7 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 - 📝[Resume](https://github.com/eagleanurag/eagleanurag.github.io/raw/master/res/resume_jan20_eng.pdf)
 
  
-  <img align="center" alt="ros eagleanurag" src="https://user-images.githubusercontent.com/22770735/94174166-91161a00-feb2-11ea-9d4c-bd1ec230f5a0.gif" />
+  <img align="center" alt="eagleanurag" src="https://user-images.githubusercontent.com/22770735/94174166-91161a00-feb2-11ea-9d4c-bd1ec230f5a0.gif" />
 
  
  
@@ -167,7 +167,8 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
-**I Love Robots,** <code><img height="35" src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-LG.gif"></code> **and they too love me!**
+
+**I Love Robots,** <code><img height="45" alt=eagleanurag src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-LG.gif" /></code> **and they too love me!**
 
 
 
