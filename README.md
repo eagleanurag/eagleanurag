@@ -49,16 +49,16 @@
 
 <br /> <br />
 
-I'm an **Under Grad. Student👨‍🎓 [@UTU](https://uktech.ac.in/)** in India. <br />
-I'm an **Electrical Engineering Student⚡ / Researcher🤿 [@eagleanurag](https://www.eagleanurag.blogspot.com)**  <br />
-I love to create real world projects and playing with them.  📢 [@projects](https://instagram.com/eagleanurag)  <br />
-Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Automobile. <br />
+I'm currently working as a **Data Engineer 🏢 [@KPMG](https://kpmg.com/in/en.html). <br />
+Previously an **Electrical Engineering Graduate ⚡ / Researcher 🤿 [@eagleanurag](https://www.eagleanurag.blogspot.com)**  <br />
+I enjoy building **real-world engineering, robotics, drone and data-driven**  📢 [@projects](https://instagram.com/eagleanurag).  <br />
+and I’m passionate about interdisciplinary research combining **Data, AI, Embedded Systems and Aerospace technologies**. <br />
 
 
 
   
 **Miscellaneous:**
-- 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
+- I’m currently exploring **Data Engineering, Distributed Systems, AI integration and Scalable Architectures** [📖](https://www.credly.com/users/eagleanurag)
 - 🤹🏽 Fields I enjoy the most (Specialization Certifications) :
   - 🤖 [Robotics](https://coursera.org/share/a237c8f82d157c1a3c5cd601e1da855f) 
   - 🚜 [Self Drivng Car](https://coursera.org/share/402fe3487673e5484084007a7bb66602)
@@ -66,11 +66,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
   - 🖼 [Computer Vision](https://coursera.org/share/60f858b3923d6089999b77303599f758)
   - 🛩️ [FPV Drones & UAV]()
   - 🛠 [DIY IoT](https://coursera.org/share/6db505a2616af40dca190c56600b7e13)
-- 📈 I’m learning Go;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Well trying for a fresh and first Research Publication.
+- 📈 I’m currently learning **Life, Advanced Cloud Architectures and Research Methodologies**
+- 💬 Ask me about **Engineering Projects, Data Systems, Robotics, Drones, Research and Open-Source**
+- ⚡️ Fun-Fact: Enjoy the Joy.
 - 📫 How to reach me: <helpmeinproject@gmail.com>
-- 📝[Resume](https://github.com/eagleanurag/eagleanurag.github.io/raw/master/res/resume_jan20_eng.pdf)
+- 📝[Resume](https://www.google.com/search?q=eagleanurag)
 
  
   <img align="center" alt="eagleanurag" src="https://user-images.githubusercontent.com/22770735/94174166-91161a00-feb2-11ea-9d4c-bd1ec230f5a0.gif" />
@@ -238,6 +238,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
+
 **I Love Robots,** <code><img height="45" alt=eagleanurag src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-LG.gif" /></code> **and they too love me!**
 
 
@@ -260,11 +261,12 @@ Ruby                     1 repo              ██░░░░░░░░░�
   Electronics, Electrical, Programming, Robotics, Mechanical subjects based projects
   from myself and also for Final Year Students of Engineering. 
 
-  -----
-
   Professionally I-m good in Arduino Programming and Open-Source Hardware Development. 
   Familiar with the electrical system of two/four-wheel Vehicle. Being FPV pilot I know
   about Drone-UAV Design, Manufacturing and Aeromodeling.
+
+  -----
+
 
 <br>
 <table width="100%">
@@ -280,6 +282,8 @@ Ruby                     1 repo              ██░░░░░░░░░�
 </td>
 </tr>
 </table>
+
+</details>
 
 </details>
 
