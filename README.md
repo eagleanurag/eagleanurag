@@ -1,49 +1,30 @@
-</div><h1 align="center"><a href="https://eagleanurag.github.io/" target="_blank">eagleanurag</a></h1></div>
+<h1 align="center">
+  <a href="https://eagleanurag.github.io/" target="_blank">eagleanurag</a>
+</h1>
 
+<p align="center">
+  <img src="https://github.com/eagleanurag/eagleanurag/workflows/wakatime-stats/badge.svg"/>
+  <img src="https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg"/>
+  <img src="https://img.shields.io/github/issues-pr/eagleanurag/eagleanurag"/>
+  <img src="https://img.shields.io/github/issues/eagleanurag/eagleanurag"/>
+</p>
 
-<img align="right" alt="GIF" src="https://profile-counter.glitch.me/eagleanurag/count.svg" />
-
-
-[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/wakatime-stats/badge.svg)](https://github.com/eagleanurag/eagleanurag/actions)
-[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg)](https://github.com/eagleanurag/eagleanurag/actions)
-<a href="https://github.com/eagleanurag/eagleanurag/pulls"><img src="https://img.shields.io/github/issues-pr/eagleanurag/eagleanurag" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/eagleanurag/eagleanurag/issues"><img src="https://img.shields.io/github/issues/eagleanurag/eagleanurag" alt="Issues Badge"/></a>
+<img align="right" width="320" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/doggo%20jumps.gif"/>
 
 ### Hello 👋, I'm [Anurag Pandey](https://eagleanurag.github.io) & Google me as [eagleanurag](https://www.google.com/search?q=eagleanurag)
-</a>
-<a href="https://eagleanurag.blogspot.com/" target="_blank">
-  <img align="right" alt="eagleanurag GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/doggo%20jumps.gif" />
-</a>
 
-<br/>
+<p>
+<a href="https://www.linkedin.com/in/eagleanurag" target="_blank">  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+<a href="https://www.facebook.com/eagleanurag" target="_blank"><img align="left" alt="Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/600px-Facebook_logo_%28square%29.png" /></a>
+<a href="https://www.instagram.com/eagleanurag" target="_blank"><img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" /></a>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA" target="_blank"><img align="left" alt="Spotify" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/512px-Spotify_icon.svg.png" /></a>
+<a href="https://www.codewars.com/users/eagleanurag" target="_blank"><img align="left" alt="Codewars" width="30px" src="https://assets-global.website-files.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" /></a>
+<a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992" target="_blank"><img align="left" alt="Codingames" width="30px" src="https://iconape.com/wp-content/png_logo_vector/codingame.png" /></a> 
+<a href="https://www.instructables.com/member/eagleanurag/" target="_blank"><img align="left" alt="Instructables" width="33px" src="https://user-images.githubusercontent.com/22770735/91797357-fa05cb80-ec3f-11ea-80ff-85239441e1a0.png" /></a> 
+<a href="https://www.robotshop.com/community/user/eagleanurag" target="_blank"><img align="left" alt="LetsmakeRobots" width="33px" src="https://user-images.githubusercontent.com/22770735/91797699-d55e2380-ec40-11ea-9435-c24537e613b0.png" /></a> 
+</p>
 
-
-<a href="https://www.linkedin.com/in/eagleanurag" target="_blank">
-  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<a href="https://www.facebook.com/eagleanurag" target="_blank">
-  <img align="left" alt="Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/600px-Facebook_logo_%28square%29.png" />
-</a>
-<a href="https://www.instagram.com/eagleanurag" target="_blank">
-  <img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" />
-</a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA" target="_blank">
-  <img align="left" alt="Spotify" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/512px-Spotify_icon.svg.png" />
-</a>
-<a href="https://www.codewars.com/users/eagleanurag" target="_blank">
-  <img align="left" alt="Codewars" width="30px" src="https://assets-global.website-files.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" />
-</a>
-<a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992" target="_blank">
-  <img align="left" alt="Codingames" width="30px" src="https://iconape.com/wp-content/png_logo_vector/codingame.png" />
-</a> 
-<a href="https://www.instructables.com/member/eagleanurag/" target="_blank">
-  <img align="left" alt="Instructables" width="33px" src="https://user-images.githubusercontent.com/22770735/91797357-fa05cb80-ec3f-11ea-80ff-85239441e1a0.png" />
-</a> 
-<a href="https://www.robotshop.com/community/user/eagleanurag" target="_blank">
-  <img align="left" alt="LetsmakeRobots" width="33px" src="https://user-images.githubusercontent.com/22770735/91797699-d55e2380-ec40-11ea-9435-c24537e613b0.png" />
-</a> 
-
-
+<div style="clear: both;"></div>
 <br /> <br />
 
 I'm currently working as a **Data Engineer** [🏢@KPMG](https://kpmg.com/in/en.html). <br />
@@ -68,10 +49,8 @@ and I’m passionate about interdisciplinary research combining **Data, AI, Embe
 - ⚡️ Fun-Fact: Enjoy the Joy.
 - 📫 How to reach me: <helpmeinproject@gmail.com>
 - 📝[Resume](https://www.google.com/search?q=eagleanurag)
-
  
   <img align="center" alt="eagleanurag" src="https://user-images.githubusercontent.com/22770735/94174166-91161a00-feb2-11ea-9d4c-bd1ec230f5a0.gif" />
-
  
  # 🏅 Earned Certifications & Badges
 
