@@ -1,7 +1,9 @@
+<!-- ================= HEADER TITLE ================= -->
 <h1 align="center">
   <a href="https://eagleanurag.github.io/" target="_blank">eagleanurag</a>
 </h1>
 
+<!-- ================= STATUS BADGES ================= -->
 <p align="center">
   <img src="https://github.com/eagleanurag/eagleanurag/workflows/wakatime-stats/badge.svg"/>
   <img src="https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg"/>
@@ -9,10 +11,13 @@
   <img src="https://img.shields.io/github/issues/eagleanurag/eagleanurag"/>
 </p>
 
+<!-- ================= HERO RIGHT GIF ================= -->
 <img align="right" width="320" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/doggo%20jumps.gif"/>
 
+<!-- ================= INTRO SECTION ================= -->
 ### Hello 👋, I'm [Anurag Pandey](https://eagleanurag.github.io) & Google me as [eagleanurag](https://www.google.com/search?q=eagleanurag)
 
+<!-- ================= SOCIAL ICONS ================= -->
 <p>
 <a href="https://www.linkedin.com/in/eagleanurag" target="_blank">  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <a href="https://www.facebook.com/eagleanurag" target="_blank"><img align="left" alt="Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/600px-Facebook_logo_%28square%29.png" /></a>
@@ -27,6 +32,7 @@
 <div style="clear: both;"></div>
 <br /> <br />
 
+<!-- ================= PROFILE SUMMARY ================= -->
 I'm currently working as a **Data Engineer** [🏢@KPMG](https://kpmg.com/in/en.html). <br />
 Previously an **Electrical Engineering Graduate ⚡ / Researcher 🤿 [@eagleanurag](https://www.eagleanurag.blogspot.com)**  <br />
 I enjoy building **real-world engineering, robotics, drone and data-driven**  📢 [@projects](https://instagram.com/eagleanurag).  <br />
@@ -34,7 +40,7 @@ and I’m passionate about interdisciplinary research combining **Data, AI, Embe
 
 
 
-  
+<!-- ================= MISC SECTION ================= -->
 **Miscellaneous:**
 - I’m currently exploring **Data Engineering, Distributed Systems, AI integration and Scalable Architectures** [📖](https://www.credly.com/users/eagleanurag)
 - 🤹🏽 Fields I enjoy the most (Specialization Certifications) :
@@ -51,7 +57,8 @@ and I’m passionate about interdisciplinary research combining **Data, AI, Embe
 - 📝[Resume](https://www.google.com/search?q=eagleanurag)
  
   <img align="center" alt="eagleanurag" src="https://user-images.githubusercontent.com/22770735/94174166-91161a00-feb2-11ea-9d4c-bd1ec230f5a0.gif" />
- 
+
+<!-- ================= CERTIFICATIONS SECTION ================= -->
  # 🏅 Earned Certifications & Badges
 
 <!-- ================= AZURE ================= -->
@@ -123,7 +130,7 @@ and I’m passionate about interdisciplinary research combining **Data, AI, Embe
 </p>
 </details>
 
-
+<!-- ================= RECENT ACTIVITY ================= -->
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -139,6 +146,7 @@ and I’m passionate about interdisciplinary research combining **Data, AI, Embe
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/metyro.gif" />
 </a>
 
+<!-- ================= GITHUB STATS ================= -->
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
@@ -214,7 +222,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
-
+<!-- ================= SUPPORT / FOOTER ================= -->
 **I Love Robots,** <code><img height="45" alt=eagleanurag src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-LG.gif" /></code> **and they too love me!**
 
 
