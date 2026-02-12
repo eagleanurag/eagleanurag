@@ -151,11 +151,11 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#134](https://github.com/mvt-project/mvt/pull/134) in [mvt-project/mvt](https://github.com/mvt-project/mvt)
-2. 💪 Opened PR [#1](https://github.com/RobTillaart/SGP30/pull/1) in [RobTillaart/SGP30](https://github.com/RobTillaart/SGP30)
-3. 🗣 Commented on [#978](https://github.com/smaranjitghose/doc2pen/issues/978) in [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
-4. 🗣 Commented on [#977](https://github.com/smaranjitghose/doc2pen/issues/977) in [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
-5. 💪 Opened PR [#978](https://github.com/smaranjitghose/doc2pen/pull/978) in [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
+1. 🔒 Closed issue [#7](https://github.com/eagleanurag/eagleanurag/issues/7) in [eagleanurag/eagleanurag](https://github.com/eagleanurag/eagleanurag)
+2. 🔒 Closed issue [#6](https://github.com/eagleanurag/eagleanurag/issues/6) in [eagleanurag/eagleanurag](https://github.com/eagleanurag/eagleanurag)
+3. 🔒 Closed issue [#5](https://github.com/eagleanurag/eagleanurag/issues/5) in [eagleanurag/eagleanurag](https://github.com/eagleanurag/eagleanurag)
+4. 🔒 Closed issue [#6](https://github.com/eagleanurag/eagleanurag/issues/6) in [eagleanurag/eagleanurag](https://github.com/eagleanurag/eagleanurag)
+5. 🔒 Closed issue [#7](https://github.com/eagleanurag/eagleanurag/issues/7) in [eagleanurag/eagleanurag](https://github.com/eagleanurag/eagleanurag)
 <!--END_SECTION:activity-->
 
 </a>
