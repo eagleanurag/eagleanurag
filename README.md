@@ -266,8 +266,21 @@ Ruby                     1 repo              ██░░░░░░░░░�
   Familiar with the electrical system of two/four-wheel Vehicle. Being FPV pilot I know
   about Drone-UAV Design, Manufacturing and Aeromodeling.
 
+<br>
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" width="100%"/>
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/22770735/91841125-6fd55b80-ec6f-11ea-93e2-eaeeeab3a512.gif" width="100%"/>
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" />
-<img height="225" align="center" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91841125-6fd55b80-ec6f-11ea-93e2-eaeeeab3a512.gif" />
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/eagleanurag/eagleanurag/master/img/ind.gif" />
 </details>
+
+
