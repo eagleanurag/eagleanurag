@@ -76,7 +76,77 @@ Beside's programming, I'm a Small Forward in FPV Racing Aerospace Engg and Autom
   <img align="center" alt="eagleanurag" src="https://user-images.githubusercontent.com/22770735/94174166-91161a00-feb2-11ea-9d4c-bd1ec230f5a0.gif" />
 
  
- 
+ # 🏅 Earned Certifications & Badges
+
+<!-- ================= AZURE ================= -->
+<details open>
+<summary><b>☁️ Microsoft Azure Certifications (7)</b></summary>
+
+<p align="center">
+
+<a href="https://www.credly.com/badges/8e3de632-3a06-47b2-816a-aaa74a0e9808/public_url"><img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="130"/></a>
+<a href="https://www.credly.com/badges/e24303ce-38b6-4342-b698-656857e75d95/public_url"><img src="https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="130"/></a>
+<a href="https://www.credly.com/badges/ab994c7e-ba85-431e-8b31-ea0be0d64b8a/public_url"><img src="https://images.credly.com/size/340x340/images/2711b780-c3f1-4678-a9ae-f6c49c379189/specialty-azure-iot-developer-600x600.png" width="130"/></a>
+<a href="https://www.credly.com/badges/455c139c-3305-4e75-978a-c98d0f391172/public_url"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="130"/></a>
+<a href="https://www.credly.com/badges/8f049faf-270a-421c-aaaf-8b9842743cd4/public_url"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="130"/></a>
+<a href="https://www.credly.com/badges/4f4c394b-4e26-4bde-8343-a9d3bfabc1aa/public_url"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="130"/></a>
+<a href="https://www.credly.com/badges/66ddea1d-8590-4c2b-ba2c-d4f6b3b494eb/public_url"><img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="130"/></a>
+
+</p>
+</details>
+
+---
+
+<!-- ================= DATA / DEVOPS ================= -->
+<details>
+<summary><b>📊 Data Engineering / Platform / DevOps (6)</b></summary>
+
+<p align="center">
+
+<a href="https://www.credly.com/badges/02760ca9-77fb-45b4-997b-c7186f3842a0/public_url"><img src="https://images.credly.com/size/340x340/images/e326783e-e92d-41a6-b2e6-1eb5bc91b7ad/blob" width="120"/></a>
+<a href="https://www.credly.com/badges/8bb4fa4e-d64f-4990-857f-53f9fc75ccf7/public_url"><img src="https://images.credly.com/images/b40db465-587f-45eb-a854-af8630a630e7/blob" width="120"/></a>
+<a href="https://www.credly.com/badges/c058b97b-ca08-4726-9d6e-d299e9bec67f/public_url"><img src="https://images.credly.com/size/340x340/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" width="120"/></a>
+<a href="https://www.credly.com/badges/cf5c0340-2dce-47a3-9738-1fa0838be45c/public_url"><img src="https://images.credly.com/size/340x340/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" width="120"/></a>
+<a href="https://www.credly.com/badges/2c3183f4-70e1-4546-98b0-afc71b906633/public_url"><img src="https://images.credly.com/size/340x340/images/c6d2f560-62c8-4b89-a825-aa982fdafed7/blob" width="120"/></a>
+<a href="https://www.credly.com/badges/59fa0e80-7578-4d21-8e59-e1c22b49e8d3/public_url"><img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="120"/></a>
+
+</p>
+</details>
+
+---
+
+<!-- ================= CLOUD FOUNDATIONS ================= -->
+<details>
+<summary><b>☁️ Cloud / Foundations (5)</b></summary>
+
+<p align="center">
+
+<a href="https://www.credly.com/badges/d9de376f-7d21-458d-8209-24c3334dfe14/public_url"><img src="https://images.credly.com/size/340x340/images/5ee26427-f944-4182-b802-459462184c9a/image.png" width="120"/></a>
+<a href="https://www.credly.com/badges/7cd299ca-e72d-4358-8407-488a60991361/public_url"><img src="https://images.credly.com/size/340x340/images/aa8b8df6-98d7-4bf5-9546-dd4c1103d718/blob" width="120"/></a>
+<a href="https://www.credly.com/badges/a28306ed-b769-4eb8-9c6b-6797753bc568/public_url"><img src="https://images.credly.com/size/340x340/images/3e42e90a-da56-4680-9f9b-140e8a1dd6d4/blob" width="120"/></a>
+<a href="https://www.credly.com/badges/f2b831c2-4ef9-498a-b7d2-18f812ed7f1d/public_url"><img src="https://images.credly.com/images/f3aa7b2f-fcad-4c15-b2d1-cd212fedb22e/image.png" width="120"/></a>
+<a href="https://www.credly.com/badges/fe90e45e-4a08-49a4-b3ed-4b76e39ab4e0/public_url"><img src="https://images.credly.com/images/54f13f58-3ea4-4b2c-b58e-9e7f21a29c07/image.png" width="120"/></a>
+
+</p>
+</details>
+
+---
+
+<!-- ================= OTHER ================= -->
+<details>
+<summary><b>🎓 Other Certifications (5)</b></summary>
+
+<p align="left">
+
+<a href="https://www.credly.com/badges/cde20978-769f-45dd-9b43-7ffbfb12c847/public_url"><img src="https://images.credly.com/images/0de80591-5959-43c1-8939-8756577859c4/image.png" width="100"/></a>
+<a href="https://www.credly.com/badges/22f2f380-ccc6-4a27-a12a-1f226dddd11f/public_url"><img src="https://images.credly.com/size/340x340/images/036db8e1-6d98-41bd-85c0-ccc6595250db/image.png" width="100"/></a>
+<a href="https://www.credly.com/badges/0cf881b3-661f-443b-bd50-7e78773a7388/public_url"><img src="https://images.credly.com/images/a05fd460-436b-49a3-bf79-839c1beebfc9/ACE_L2__HED__30x__1_.png" width="100"/></a>
+<a href="https://www.credly.com/badges/0dc41ae0-ea23-42fc-a6de-df2d3b70d513/public_url"><img src="https://images.credly.com/size/340x340/images/2c8da10c-a548-453b-a414-93f3a424b98c/ACE_L2__K12__30x__2_.png" width="100"/></a>
+<a href="https://www.credly.com/badges/eed88263-1cd5-4859-8380-a5d5c959bbf8/public_url"><img src="https://images.credly.com/images/4e0ee172-e0ef-40ab-be20-3bbe892f5979/image.png" width="100"/></a>
+
+</p>
+</details>
+
 
 ### :zap: Recent Activity
 
