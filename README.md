@@ -49,7 +49,7 @@
 
 <br /> <br />
 
-I'm currently working as a **Data Engineer 🏢 [@KPMG](https://kpmg.com/in/en.html). <br />
+I'm currently working as a **Data Engineer** [🏢@KPMG](https://kpmg.com/in/en.html). <br />
 Previously an **Electrical Engineering Graduate ⚡ / Researcher 🤿 [@eagleanurag](https://www.eagleanurag.blogspot.com)**  <br />
 I enjoy building **real-world engineering, robotics, drone and data-driven**  📢 [@projects](https://instagram.com/eagleanurag).  <br />
 and I’m passionate about interdisciplinary research combining **Data, AI, Embedded Systems and Aerospace technologies**. <br />
