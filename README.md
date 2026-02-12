@@ -42,9 +42,6 @@
 <a href="https://www.robotshop.com/community/user/eagleanurag" target="_blank">
   <img align="left" alt="LetsmakeRobots" width="33px" src="https://user-images.githubusercontent.com/22770735/91797699-d55e2380-ec40-11ea-9435-c24537e613b0.png" />
 </a> 
-<a >
-  <img align="left" alt="Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20211104142029" />
-</a>
 
 
 <br /> <br />
