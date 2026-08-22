@@ -134,8 +134,8 @@ and I’m passionate about interdisciplinary research combining **Data, AI, Embe
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/eagleanurag/eagleanurag/issues/7) in [eagleanurag/eagleanurag](https://github.com/eagleanurag/eagleanurag)
-2. 🔒 Closed issue [#6](https://github.com/eagleanurag/eagleanurag/issues/6) in [eagleanurag/eagleanurag](https://github.com/eagleanurag/eagleanurag)
+1. 💪 Opened PR [#44213](https://github.com/anomalyco/opencode/pull/44213) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. ❗ Opened issue [#44212](https://github.com/anomalyco/opencode/issues/44212) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 3. 🔒 Closed issue [#5](https://github.com/eagleanurag/eagleanurag/issues/5) in [eagleanurag/eagleanurag](https://github.com/eagleanurag/eagleanurag)
 4. 🔒 Closed issue [#6](https://github.com/eagleanurag/eagleanurag/issues/6) in [eagleanurag/eagleanurag](https://github.com/eagleanurag/eagleanurag)
 5. 🔒 Closed issue [#7](https://github.com/eagleanurag/eagleanurag/issues/7) in [eagleanurag/eagleanurag](https://github.com/eagleanurag/eagleanurag)
