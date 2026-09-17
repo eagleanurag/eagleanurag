@@ -148,36 +148,38 @@ and I’m passionate about interdisciplinary research combining **Data, AI, Embe
 
 <!-- ================= GITHUB STATS ================= -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 218.8 kB Used in GitHub's Storage 
+> 📦 221.6 kB Used in GitHub's Storage 
  > 
-> 🏆 384 Contributions in the Year 2026
+> 🏆 406 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 83 Public Repositories 
+> 📜 84 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-🌆 Daytime                1043 commits        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-🌃 Evening                974 commits         ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-🌙 Night                  1686 commits        ███████████░░░░░░░░░░░░░░   44.63 % 
+🌞 Morning                75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+🌆 Daytime                1059 commits        ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+🌃 Evening                979 commits         ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+🌙 Night                  1686 commits        ███████████░░░░░░░░░░░░░░   44.38 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Tuesday                  358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Wednesday                366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Thursday                 275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Friday                   345 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Saturday                 1926 commits        █████████████░░░░░░░░░░░░   50.98 % 
-Sunday                   269 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Monday                   239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Tuesday                  358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Wednesday                366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Thursday                 296 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Friday                   345 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Saturday                 1926 commits        █████████████░░░░░░░░░░░░   50.70 % 
+Sunday                   269 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 ```
 
 
@@ -218,7 +220,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 07:38:49 UTC
+ Last Updated on 17/09/2026 22:05:19 UTC
 <!--END_SECTION:waka-->
 
 
