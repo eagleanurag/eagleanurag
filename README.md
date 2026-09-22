@@ -152,9 +152,9 @@ and I’m passionate about interdisciplinary research combining **Data, AI, Embe
 
 **🐱 My GitHub Data** 
 
-> 📦 221.8 kB Used in GitHub's Storage 
+> 📦 248.0 kB Used in GitHub's Storage 
  > 
-> 🏆 442 Contributions in the Year 2026
+> 🏆 449 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -165,21 +165,21 @@ and I’m passionate about interdisciplinary research combining **Data, AI, Embe
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-🌆 Daytime                1060 commits        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-🌃 Evening                1007 commits        ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-🌙 Night                  1692 commits        ███████████░░░░░░░░░░░░░░   44.13 % 
+🌞 Morning                75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+🌆 Daytime                1062 commits        ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+🌃 Evening                1012 commits        ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+🌙 Night                  1693 commits        ███████████░░░░░░░░░░░░░░   44.07 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   248 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Tuesday                  358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Wednesday                366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Thursday                 296 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Friday                   346 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Saturday                 1927 commits        █████████████░░░░░░░░░░░░   50.26 % 
-Sunday                   293 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Monday                   249 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Tuesday                  365 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Wednesday                366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Thursday                 296 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Friday                   346 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Saturday                 1927 commits        █████████████░░░░░░░░░░░░   50.16 % 
+Sunday                   293 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 ```
 
 
@@ -220,7 +220,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 22:35:53 UTC
+ Last Updated on 22/09/2026 22:04:19 UTC
 <!--END_SECTION:waka-->
 
 
