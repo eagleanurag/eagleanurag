@@ -152,34 +152,34 @@ and I’m passionate about interdisciplinary research combining **Data, AI, Embe
 
 **🐱 My GitHub Data** 
 
-> 📦 249.2 kB Used in GitHub's Storage 
+> 📦 497.4 kB Used in GitHub's Storage 
  > 
-> 🏆 490 Contributions in the Year 2026
+> 🏆 530 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 85 Public Repositories 
+> 📜 87 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                76 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-🌆 Daytime                1071 commits        ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-🌃 Evening                1028 commits        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-🌙 Night                  1708 commits        ███████████░░░░░░░░░░░░░░   43.99 % 
+🌞 Morning                88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+🌆 Daytime                1074 commits        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+🌃 Evening                1042 commits        ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+🌙 Night                  1721 commits        ███████████░░░░░░░░░░░░░░   43.85 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Tuesday                  369 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Wednesday                368 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Thursday                 303 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Friday                   351 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Saturday                 1938 commits        ████████████░░░░░░░░░░░░░   49.91 % 
-Sunday                   299 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Monday                   255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Tuesday                  398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Wednesday                381 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Thursday                 303 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Friday                   351 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Saturday                 1938 commits        ████████████░░░░░░░░░░░░░   49.38 % 
+Sunday                   299 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 ```
 
 
@@ -210,17 +210,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   12 repos            ████████████░░░░░░░░░░░░░   46.15 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 28/09/2026 23:55:40 UTC
+ Last Updated on 29/09/2026 23:02:13 UTC
 <!--END_SECTION:waka-->
 
 
