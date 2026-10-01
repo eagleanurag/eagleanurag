@@ -134,11 +134,11 @@ and I’m passionate about interdisciplinary research combining **Data, AI, Embe
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/eagleanurag/hawk-eye-hangar/issues/2#issuecomment-5919815966) in [eagleanurag/hawk-eye-hangar](https://github.com/eagleanurag/hawk-eye-hangar)
-2. 🎉 Merged PR [#7](https://github.com/eagleanurag/hawk-eye-hangar/pull/7) in [eagleanurag/hawk-eye-hangar](https://github.com/eagleanurag/hawk-eye-hangar)
-3. 💪 Opened PR [#7](https://github.com/eagleanurag/hawk-eye-hangar/pull/7) in [eagleanurag/hawk-eye-hangar](https://github.com/eagleanurag/hawk-eye-hangar)
-4. 🗣 Commented on [#8](https://github.com/eagleanurag/de-interview-wiki/issues/8#issuecomment-5919105885) in [eagleanurag/de-interview-wiki](https://github.com/eagleanurag/de-interview-wiki)
-5. 🗣 Commented on [#2](https://github.com/eagleanurag/hawk-eye-hangar/issues/2#issuecomment-5917717105) in [eagleanurag/hawk-eye-hangar](https://github.com/eagleanurag/hawk-eye-hangar)
+1. 🎉 Merged PR [#8](https://github.com/eagleanurag/hawk-eye-hangar/pull/8) in [eagleanurag/hawk-eye-hangar](https://github.com/eagleanurag/hawk-eye-hangar)
+2. 💪 Opened PR [#8](https://github.com/eagleanurag/hawk-eye-hangar/pull/8) in [eagleanurag/hawk-eye-hangar](https://github.com/eagleanurag/hawk-eye-hangar)
+3. 🗣 Commented on [#2](https://github.com/eagleanurag/hawk-eye-hangar/issues/2#issuecomment-5919815966) in [eagleanurag/hawk-eye-hangar](https://github.com/eagleanurag/hawk-eye-hangar)
+4. 🎉 Merged PR [#7](https://github.com/eagleanurag/hawk-eye-hangar/pull/7) in [eagleanurag/hawk-eye-hangar](https://github.com/eagleanurag/hawk-eye-hangar)
+5. 💪 Opened PR [#7](https://github.com/eagleanurag/hawk-eye-hangar/pull/7) in [eagleanurag/hawk-eye-hangar](https://github.com/eagleanurag/hawk-eye-hangar)
 <!--END_SECTION:activity-->
 
 </a>
