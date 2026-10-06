@@ -152,7 +152,7 @@ and I’m passionate about interdisciplinary research combining **Data, AI, Embe
 
 **🐱 My GitHub Data** 
 
-> 📦 536.5 kB Used in GitHub's Storage 
+> 📦 536.6 kB Used in GitHub's Storage 
  > 
 > 🏆 646 Contributions in the Year 2026
  > 
@@ -220,7 +220,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 22:17:17 UTC
+ Last Updated on 06/10/2026 00:44:48 UTC
 <!--END_SECTION:waka-->
 
 
